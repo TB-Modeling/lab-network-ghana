@@ -1,0 +1,854 @@
+Facility,region,district,CR district,Longitude,Latitude ,tier,Type,Original Type,xpert
+National Public Health Lab,NORTHERN,TAMALE,TAMALE,-0.2266,5.53719,1,National Lab,National Lab,yes
+Public Health Laboratory Tamale,NORTHERN,TAMALE,TAMALE,-0.823665,9.393575,2,Zonal Lab,Zonal Lab,yes
+Ahmadiyya Muslim Hospital,Ahafo,Asunafo North,Asunafo North,-2.5597,6.90181,5,Hospital,Hospital,yes
+Akrodie Health Centre,Ahafo,Asunafo North,Asunafo North,-2.5569,6.69505,6,Health Centre,Health Centre,no
+Ampenkro Health Centre,Ahafo,Asunafo North,Asunafo North,-2.7634,6.94357,7,Clinic,Clinic,no
+Asumura Health Centre,Ahafo,Asunafo North,Asunafo North,-2.76102,6.90181,6,Health Centre,Health Centre,no
+Ayomso Health Centre,Ahafo,Asunafo North,Asunafo North,-2.58226,6.76364,6,Health Centre,Health Centre,no
+Church of Pentecost Clinic,Ahafo,Asunafo North,Asunafo North,-2.81151,6.94054,7,Clinic,Clinic,no
+Fawohoyeden Health Centre,Ahafo,Asunafo North,Asunafo North,-2.57275,6.73752,7,Clinic,Clinic,no
+Goaso Municipal Hospital,Ahafo,Asunafo North,Asunafo North,-2.52224,6.80548,3,Regional Hospital,Regional Hospital,yes
+Mim Health Centre,Ahafo,Asunafo North,Asunafo North,-2.55969,6.90181,7,Clinic,Clinic,no
+Asunafo South District Hospital,Ahafo,Asunafo South,Asunafo South,-2.43879,6.69668,4,District Hospital,District Hospital,yes
+Sankore Health Centre,Ahafo,Asunafo South,Asunafo South,-2.5017,6.50285,6,Health Centre,Health Centre,no
+Gyedu Health Centre,Ahafo,Asutifi North,Asutifi North,-2.3248,7.06875,6,Health Centre,Health Centre,no
+Kenyasi Health Centre,Ahafo,Asutifi North,Asutifi North,-2.3857,6.97533,4,District Hospital,District Hospital,yes
+Acherensua Health Centre,Ahafo,Asutifi South,Asutifi South,-2.2971,6.97987,6,Health Centre,Health Centre,no
+Dadiesoaba Health Centre,Ahafo,Asutifi South,Asutifi South,-2.41999,6.77916,6,Health Centre,Health Centre,no
+Hwidiem St Elizabeth Hospital,Ahafo,Asutifi South,Asutifi South,-2.35839,6.93244,4,District Hospital,District Hospital,yes
+Bomaa District Hospital ,Ahafo,Tano North,Tano North,-2.16787,7.08756,7,Clinic,Clinic,no
+Duayaw Nkwanta St John Of God Hospital,Ahafo,Tano North,Tano North,-2.0967,7.17559,4,District Hospital,District Hospital,no
+Bechem Government Hospital,Ahafo,Tano South,Tano South,-2.05409,7.08988,4,District Hospital,District Hospital,yes
+Akrofuom Health Centre,Ashanti,Akrofuom,Akrofuom,-1.65383,6.12383,4,District Hospital,District Hospital,no
+Asokwa Health Centre,Ashanti,Adansi Asokwa,Adansi Asokwa,-1.48609,6.2533,4,District Hospital,District Hospital,no
+Fomena Health Centre,Ashanti,Adansi North,Adansi North,-1.51002,6.28022,4,District Hospital,District Hospital,no
+New Edubiase Government Hospital,Ashanti,Adansi South,Adansi South,-1.39281,6.05456,4,District Hospital,District Hospital,yes
+Boamang Health Centre,Ashanti,Afigya Kwabre North,Afigya Kwabre North,-1.61712,6.94079,4,District Hospital,District Hospital,no
+Methodist Faith Healing Hospital,Ashanti,Afigya Kwabre South,Afigya Kwabre South,-1.54953,6.8481,5,Hospital,Hospital,yes
+Tepa Government Hospital,Ashanti,Ahafo Ano North,Ahafo Ano North,-2.16102,6.99966,4,District Hospital,District Hospital,yes
+Mankranso Government Hospital,Ashanti,Ahafo Ano South West,Ahafo Ano South West,-1.86276,6.82085,4,District Hospital,District Hospital,no
+Numereso Health Centre,Ashanti,Amansie Central,Amansie Central,-1.6717,6.62675,4,District Hospital,District Hospital,no
+St. Martin's Catholic Hospital,Ashanti,Amansie South,Amansie South,-1.8813,6.41353,5,Hospital,Hospital,no
+Antoakrom Health Centre,Ashanti,Amansie West,Amansie West,-1.66935,6.55865,4,District Hospital,District Hospital,no
+Konongo - Odumasi Government Hospital,Ashanti,Asante Akim Central,Asante Akim Central,-1.21792,6.62436,4,District Hospital,District Hospital,yes
+Presby Hospital - Agogo,Ashanti,Asante Akim North,Asante Akim North,-1.08529,6.79618,5,Hospital,Hospital,yes
+Juaso District Hospital,Ashanti,Asante Akim South,Asante Akim South,-1.12104,6.59221,4,District Hospital,District Hospital,no
+Mampong Government Hospital,Ashanti,Mampong,Mampong,-1.40706,7.04158,4,District Hospital,District Hospital,yes
+Asokore Mampong Health Centre,Ashanti,Asokore Mampong,Asokore Mampong,-1.55598,6.72334,4,District Hospital,District Hospital,no
+Kumasi South Hospital,Ashanti,Asokwa,Asokwa,-1.58646,6.65195,4,District Hospital,District Hospital,yes
+Ahenema Kokoben Health Centre,Ashanti,Atwima Kwanwoma,Atwima Kwanwoma,-1.64987,6.62631,4,District Hospital,District Hospital,no
+Nyinahin Government Hospital,Ashanti,Atwima Mponua,Atwima Mponua,-2.10999,6.60115,4,District Hospital,District Hospital,yes
+Nkawie-Toase Government Hospital,Ashanti,Atwima Nwabiagya South,Atwima Nwabiagya South,-1.81112,6.66465,4,District Hospital,District Hospital,yes
+Abuakwa Government Polyclinic,Ashanti,Atwima Nwabiagya North,Atwima Nwabiagya North,-1.71517,6.70112,4,District Hospital,District Hospital,no
+Bekwai Municipal Hospital,Ashanti,Bekwai,Bekwai,-1.57605,6.44944,4,District Hospital,District Hospital,yes
+Dominase SDA Hospital,Ashanti,Bekwai,Bekwai,-1.65523,6.52455,5,Hospital,Hospital,no
+Kokofu General Hospital,Ashanti,Bekwai,Bekwai,-1.52443,6.49913,5,Hospital,Hospital,no
+Asiwa Health Centre,Ashanti,Bosome Freho,Bosome Freho,-1.33448,6.42339,4,District Hospital,District Hospital,no
+Kuntanase Government Hospital,Ashanti,Bosomtwe,Bosomtwe,-1.47454,6.53752,4,District Hospital,District Hospital,no
+St. Michael's Catholic Hospital Pramso,Ashanti,Bosomtwe,Bosomtwe,-1.51247,6.55872,5,Hospital,Hospital,yes
+Ejisu Government Hospital,Ashanti,Ejisu,Ejisu,-1.4703,6.721,4,District Hospital,District Hospital,no
+Ejura Government Hospital,Ashanti,Ejura-Sekyedumase,Ejura-Sekyedumase,-1.35197,7.38906,4,District Hospital,District Hospital,no
+Sekyedumase Government Polyclinic,Ashanti,Ejura-Sekyedumase,Ejura-Sekyedumase,-1.57912,7.31352,5,Hospital,Hospital,no
+Juaben Government Hospital,Ashanti,Juaben,Juaben,-1.41392,6.81602,4,District Hospital,District Hospital,yes
+Manhyia Government Hospital,Ashanti,Kumasi Metropolitan,Kumasi Metropolitan,-1.61483,6.70581,4,District Hospital,District Hospital,yes
+Suntreso Government Hospital,Ashanti,Kumasi Metropolitan,Kumasi Metropolitan,-1.64096,6.69484,5,Hospital,Hospital,no
+Komfo Anokye Teaching Hospital,ASHANTI,Kumasi Metropolitan,Kumasi Metropolitan,-1.62976,6.70669,3,Regional Hospital,Regional Hospital,yes
+Kumasi County Hospital,ASHANTI,Kumasi Metropolitan,Kumasi Metropolitan,-1.65806,6.72658,5,Hospital,Hospital,yes
+Asonomaso Government Hospital,Ashanti,Kwabre East,Kwabre East,-1.55877,6.74246,4,District Hospital,District Hospital,no
+Kwadaso SDA Hospital,Ashanti,Kwadaso,Kwadaso,-1.65855,6.69964,5,Hospital,Hospital,no
+HopeXchange Medical Centre,ASHANTI,KWADASO,KWADASO,-1.65597,6.72549,6,Health Centre,Health Centre,yes
+Obuasi Government Hospital,Ashanti,Obuasi,Obuasi,-1.685,6.203,4,District Hospital,District Hospital,yes
+AGA Health Foundation Hospital,ASHANTI,OBUASI EAST,OBUASI EAST,-1.55354,6.66003,5,Hospital,Hospital,yes
+Bryant Mission Hospital,Ashanti,Obuasi East,Obuasi East,-1.646,6.191,5,Hospital,Hospital,no
+St. Patrick's Catholic Hospital,Ashanti,Offinso,Offinso,-1.66608,6.95036,5,Hospital,Hospital,yes
+Nkenkaasu Government Hospital,Ashanti,Offinso North,Offinso North,-1.90309,7.3195,4,District Hospital,District Hospital,yes
+KNUST Hospital,ASHANTI,OFORIKROM,OFORIKROM,-1.57366,6.68632,5,Hospital,Hospital,yes
+Oforikrom (Kumasi) Clinic,Ashanti,Oforikrom,Oforikrom,-1.59325,6.6899,4,District Hospital,District Hospital,no
+Tafo Government Hospital,Ashanti,Old Tafo,Old Tafo,-1.60797,6.73615,4,District Hospital,District Hospital,no
+Trinity Hospital,ASHANTI,OLD TAFO,OLD TAFO,-1.60945,6.74615,5,Hospital,Hospital,yes
+Dawia Health Centre,Ashanti,Sekyere Afram Plains North,Sekyere Afram Plains North,-0.91802,7.12597,4,District Hospital,District Hospital,no
+Kwamang Health Centre,Ashanti,Sekyere Central,Sekyere Central,-1.26961,6.98188,4,District Hospital,District Hospital,no
+Effiduase Government Hospital,Ashanti,Sekyere East,Sekyere East,-1.39359,6.84743,5,Hospital,Hospital,no
+Kumawu Government Polyclinic,Ashanti,Sekyere Kumawu,Sekyere Kumawu,-1.26814,6.90714,4,District Hospital,District Hospital,no
+Agona  Government Hospital,Ashanti,Sekyere South,Sekyere South,-1.4975,6.93599,5,Hospital,Hospital,no
+Asamang SDA Hospital,ASHANTI,SEKYERE SOUTH,SEKYERE SOUTH,-1.43308,6.90252,5,Hospital,Hospital,yes
+BREMANG SDA HOSPITAL,Ashanti,Suame,Suame,-1.64373,6.74649,5,Hospital,Hospital,no
+Banda  Ahenkro Health Centre,Bono,Banda,Banda,-2.3575,8.1636,4,District Hospital,District Hospital,no
+Holy Family (Berekum) Hospital,Bono,Berekum East,Berekum East,-2.58649,7.44455,4,District Hospital,District Hospital,yes
+St. Alban's Health Center,Bono,Berekum West,Berekum West,-2.67945,7.47901,6,Health Centre,Health Centre,no
+Dormaa Akwamu Health Centre,Bono,Dormaa East,Dormaa East,-2.73693,7.31691,7,Clinic,Clinic,no
+Dormaa East District Hospital,Bono,Dormaa East,Dormaa East,-2.69938,7.30573,4,District Hospital,District Hospital,no
+Dormaa Presby Hosp,Bono,Dormaa Municipal,Dormaa Municipal,-2.86854,7.2763,4,District Hospital,District Hospital,yes
+Dormaa West District Hospital,Bono,Dormaa West,Dormaa West,-3.0862,7.01987,4,District Hospital,District Hospital,no
+Sampa Government Hospital,Bono,Jaman North,Jaman North,-2.69371,7.95693,4,District Hospital,District Hospital,yes
+Suma Presby Health Centre,Bono,Jaman North,Jaman North,-2.72633,7.91906,6,Health Centre,Health Centre,no
+Drobo St Mary Hospital,Bono,Jaman South,Jaman South,-2.78549,7.58599,4,District Hospital,District Hospital,yes
+Brong Ahafo Regional Hospital,Bono,Sunyani Municipal,Sunyani Municipal,-2.3142,7.3446,3,Regional Hospital,Regional Hospital,yes
+Sunyani Municipal Hosp,Bono,Sunyani Municipal,Sunyani Municipal,-2.3319,7.33839,4,District Hospital,District Hospital,no
+Chiraa Government Hospital,Bono,Sunyani West,Sunyani West,-2.18268,7.40367,6,Health Centre,Health Centre,no
+Fiapre Health Center,Bono,Sunyani West,Sunyani West,-2.3467,7.3629,6,Health Centre,Health Centre,no
+Kwatire Government Hospital,Bono,Sunyani West,Sunyani West,-2.30017,7.38519,4,District Hospital,District Hospital,no
+Nsoatre Health Center,Bono,Sunyani West,Sunyani West,-2.46324,7.39904,6,Health Centre,Health Centre,no
+Seikwa Health Center,Bono,Tain,Tain,-2.51792,7.72836,6,Health Centre,Health Centre,no
+Tain District Hospital,Bono,Tain,Tain,-2.18906,7.52579,4,District Hospital,District Hospital,yes
+Methodist Hospital - Wenchi,Bono,Wenchi,Wenchi,-2.11095,7.73486,4,District Hospital,District Hospital,yes
+Wenchi Health Centre,Bono,Wenchi,Wenchi,-2.11174,7.74077,6,Health Centre,Health Centre,no
+Akokoa Health Center,Bono East,Atebubu Amantin,Atebubu Amantin,-1.15122,7.59166,6,Health Centre,Health Centre,no
+Amanten Health Center,Bono East,Atebubu Amantin,Atebubu Amantin,-1.20795,7.53828,6,Health Centre,Health Centre,no
+Atebubu Hospital,Bono East,Atebubu Amantin,Atebubu Amantin,-0.9819,7.74638,4,District Hospital,District Hospital,yes
+Kintampo Municipal Hospital,Bono East,Kintampo North,Kintampo North,-1.73351,8.05172,5,Hospital,Hospital,yes
+Seth Owusu Agyei Medical Lab   KHRC,BONO EAST,KINTAMPO NORTH,KINTAMPO NORTH,-1.7332,8.05335,5,Hospital,Hospital,yes
+Amoma Health Center,Bono East,Kintampo South,Kintampo South,-1.87116,7.78385,7,Clinic,Clinic,no
+Anyima Health Center,Bono East,Kintampo South,Kintampo South,-1.87408,7.89301,6,Health Centre,Health Centre,no
+Kintampo South District Hospital,Bono East,Kintampo South,Kintampo South,-1.7731,7.8905,4,District Hospital,District Hospital,no
+Busunya Polyclinic,Bono East,Nkoranza North,Nkoranza North,-1.65773,7.68463,4,District Hospital,District Hospital,no
+Dromankese Health Centre,Bono East,Nkoranza North,Nkoranza North,-1.56124,7.70912,6,Health Centre,Health Centre,no
+Yefri Health Centre,Bono East,Nkoranza North,Nkoranza North,-1.74787,7.69133,6,Health Centre,Health Centre,no
+Africa Libera Health Centre,Bono East,Nkoranza South,Nkoranza South,-1.69835,7.56725,6,Health Centre,Health Centre,no
+Bonsu Health Centre (Nkoranza South),Bono East,Nkoranza South,Nkoranza South,-1.79185,7.54945,6,Health Centre,Health Centre,no
+Donkro Nkwanta Health Centre,Bono East,Nkoranza South,Nkoranza South,-1.65995,7.43477,6,Health Centre,Health Centre,no
+Nkoranza Health Centre,Bono East,Nkoranza South,Nkoranza South,-1.71117,7.56816,6,Health Centre,Health Centre,no
+Nkwabeng Health Centre,Bono East,Nkoranza South,Nkoranza South,-1.7381,7.49959,6,Health Centre,Health Centre,no
+St Theresa Hospital-Nkoranza,Bono East,Nkoranza South,Nkoranza South,-1.70495,7.57127,4,District Hospital,District Hospital,yes
+Mathias Hospital Yeji,Bono East,Pru East,Pru East,-0.065508,8.22828,4,District Hospital,District Hospital,yes
+Our Lady of Fatima Health Care,Bono East,Pru West,Pru West,-1.18246,7.95847,6,Health Centre,Health Centre,no
+Prang Health Centre,Bono East,Pru West,Pru West,-0.883055,7.98381,4,District Hospital,District Hospital,no
+Bassa Health Centre,Bono East,Sene East,Sene East,-0.409457,7.78987,6,Health Centre,Health Centre,no
+Kajaji Health Centre,Bono East,Sene East,Sene East,-0.220275,7.78052,6,Health Centre,Health Centre,no
+Kojokrom (Sene) Health Centre,Bono East,Sene East,Sene East,-0.170769,7.77886,7,Clinic,Clinic,no
+Sene District Hospital,Bono East,Sene West,Sene West,-0.68588,7.73115,4,District Hospital,District Hospital,yes
+Abrefi Women and Children Hospital,Bono East,Techiman Municipal,Techiman Municipal,-1.95803,7.48947,5,Hospital,Hospital,yes
+Ahmadiyyah (Techiman) Mission Hospital,Bono East,Techiman Municipal,Techiman Municipal,-1.9337,7.57997,5,Hospital,Hospital,no
+Nsuta Health Centre,Bono East,Techiman Municipal,Techiman Municipal,-2.07366,7.52808,6,Health Centre,Health Centre,no
+Oforikrom (Techiman) Health Centre,Bono East,Techiman Municipal,Techiman Municipal,-1.86415,7.594,6,Health Centre,Health Centre,no
+Opoku Agyeman Hospital,Bono East,Techiman Municipal,Techiman Municipal,-1.93684,7.56306,5,Hospital,Hospital,no
+Tanoso (Techiman) Health Centre,Bono East,Techiman Municipal,Techiman Municipal,-1.96771,7.46872,6,Health Centre,Health Centre,no
+Techiman Holy Family Hospital,Bono East,Techiman Municipal,Techiman Municipal,-1.73683,7.59292,3,Regional Hospital,Regional Hospital,yes
+Aworowa Health Centre,Bono East,Techiman North,Techiman North,-2.00436,7.37114,7,Clinic,Clinic,no
+Buoyem Health Centre,Bono East,Techiman North,Techiman North,-1.96116,7.66609,7,Clinic,Clinic,no
+Krobo Memorial Health Centre,Bono East,Techiman North,Techiman North,-1.57397,7.39578,6,Health Centre,Health Centre,no
+Offuman Health Centre,Bono East,Techiman North,Techiman North,-1.54426,7.38055,4,District Hospital,District Hospital,no
+Tuobodom Health Centre,Bono East,Techiman North,Techiman North,-1.58113,7.47011,7,Clinic,Clinic,no
+Abakrampa Health Centre,Central,Abura-Asebu-Kwamankese,Abura-Asebu-Kwamankese,-1.23774,5.25438,6,Health Centre,Health Centre,no
+Abura Dunkwa District Hospital,Central,Abura-Asebu-Kwamankese,Abura-Asebu-Kwamankese,-1.17105,5.3452,4,District Hospital,District Hospital,yes
+Asuansi Rural Clinic,Central,Abura-Asebu-Kwamankese,Abura-Asebu-Kwamankese,-1.25553,5.30526,7,Clinic,Clinic,no
+Moree Health Centre,Central,Abura-Asebu-Kwamankese,Abura-Asebu-Kwamankese,-1.19931,5.1365,6,Health Centre,Health Centre,no
+Asafo Health Centre,Central,Agona East,Agona East,-0.66243,5.55225,6,Health Centre,Health Centre,no
+Kwanyako Health Centre,Central,Agona East,Agona East,-0.63747,5.59034,6,Health Centre,Health Centre,no
+Mankrong Health Centre,Central,Agona East,Agona East,-0.6206,5.6718,6,Health Centre,Health Centre,no
+Mensakrom Health Centre,Central,Agona East,Agona East,-0.7239,5.60415,6,Health Centre,Health Centre,no
+Nsaba Health Centre,Central,Agona East,Agona East,-0.75575,5.65239,6,Health Centre,Health Centre,no
+Abodom Health Centre,Central,Agona West,Agona West,-0.82106,5.53108,6,Health Centre,Health Centre,no
+Ahamadiyya Hospital,Central,Agona West,Agona West,-0.69956,5.53852,5,Hospital,Hospital,no
+Armah CHPS,Central,Agona West,Agona West,-0.79154,5.60654,7,Clinic,Clinic,no
+Bobikuma Health Centre,Central,Agona West,Agona West,-0.850976,5.55355,6,Health Centre,Health Centre,no
+Nana Khadija CHPS,Central,Agona West,Agona West,-0.70634,5.53637,7,Clinic,Clinic,no
+Nkum Health Centre,Central,Agona West,Agona West,-0.833333,5.63333,6,Health Centre,Health Centre,no
+Nyakrom Health Centre,Central,Agona West,Agona West,-0.79676,5.60867,6,Health Centre,Health Centre,no
+Swedru Government Hospital,Central,Agona West,Agona West,-0.6926,5.53532,4,District Hospital,District Hospital,yes
+Pokukrom Health Centre,Central,Ahafo Ano South East,Ahafo Ano South East,-1.81282,6.01807,4,District Hospital,District Hospital,no
+Abaasa Health Centre,Central,Ajumako-Enyan-Essiam,Ajumako-Enyan-Essiam,-0.944405,5.36947,6,Health Centre,Health Centre,no
+Ajumako District Hospital,Central,Ajumako-Enyan-Essiam,Ajumako-Enyan-Essiam,-0.9551,5.4235,4,District Hospital,District Hospital,yes
+Baa Salvation Army Clinic,Central,Ajumako-Enyan-Essiam,Ajumako-Enyan-Essiam,-0.9337,5.4753,6,Health Centre,Health Centre,no
+Bisease Polyclinic,Central,Ajumako-Enyan-Essiam,Ajumako-Enyan-Essiam,-0.9888,5.4648,5,Hospital,Hospital,no
+Nkwantanum Health Centre,Central,Ajumako-Enyan-Essiam,Ajumako-Enyan-Essiam,-0.97646,5.41199,6,Health Centre,Health Centre,no
+Sonkwaa Polyclinic,Central,Ajumako-Enyan-Essiam,Ajumako-Enyan-Essiam,-1.0504,5.3586,5,Hospital,Hospital,no
+Anhwiam CHPS,Central,Asikuma-Odoben-Brakwa,Asikuma-Odoben-Brakwa,-1.14176,5.64501,7,Clinic,Clinic,no
+Brakwa Health Centre,Central,Asikuma-Odoben-Brakwa,Asikuma-Odoben-Brakwa,-0.9902,5.70184,6,Health Centre,Health Centre,no
+Jamra CHPS,Central,Asikuma-Odoben-Brakwa,Asikuma-Odoben-Brakwa,-1.01667,5.63333,7,Clinic,Clinic,no
+Jamra Polyclinic,Central,Asikuma-Odoben-Brakwa,Asikuma-Odoben-Brakwa,-1.01667,5.63333,5,Hospital,Hospital,no
+Kuntanase CHPS,Central,Asikuma-Odoben-Brakwa,Asikuma-Odoben-Brakwa,-0.91667,5.61667,7,Clinic,Clinic,no
+Odoben Health Centre,Central,Asikuma-Odoben-Brakwa,Asikuma-Odoben-Brakwa,-0.883333,5.63333,6,Health Centre,Health Centre,no
+Our Lady Of Grace Hospital,Central,Asikuma-Odoben-Brakwa,Asikuma-Odoben-Brakwa,-0.99987,5.57724,4,District Hospital,District Hospital,yes
+Assin Awisem Health Centre,Central,Assin Central,Assin Central,-1.54909,5.86715,7,Clinic,Clinic,no
+Assin Foso Health Centre,Central,Assin Central,Assin Central,-1.2738,5.69698,6,Health Centre,Health Centre,no
+St Francis Xavier Hospital,Central,Assin Central,Assin Central,-1.28136,5.6996,4,District Hospital,District Hospital,yes
+Assin Akonfudi Polyclinic,Central,Assin North,Assin North,-1.31,5.826,4,District Hospital,District Hospital,no
+Assin Bereku Health Centre,Central,Assin North,Assin North,-1.33988,5.86629,6,Health Centre,Health Centre,no
+Assin Kushea Health Centre,Central,Assin North,Assin North,-1.45457,5.87564,6,Health Centre,Health Centre,no
+Assin Praso Presby Hospital,Central,Assin North,Assin North,-1.36201,5.92712,6,Health Centre,Health Centre,no
+Bediadua Health Centre,Central,Assin North,Assin North,-1.49687,5.77448,6,Health Centre,Health Centre,no
+Anyinabrim Health Centre,Central,Assin South,Assin South,-1.21239,5.60874,6,Health Centre,Health Centre,no
+Jakai Health Centre,Central,Assin South,Assin South,-1.20075,5.40376,6,Health Centre,Health Centre,no
+Manso Health Centre,Central,Assin South,Assin South,-1.16765,5.52398,4,District Hospital,District Hospital,no
+Nsuta Presby Clinic,Central,Assin South,Assin South,-1.23277,5.62813,7,Clinic,Clinic,no
+Nyankumasi Ahenkro Health Centre,Central,Assin South,Assin South,-1.14919,5.38338,6,Health Centre,Health Centre,no
+Ongwa Health Centre,Central,Assin South,Assin South,-1.3981,5.63004,6,Health Centre,Health Centre,no
+Awutu Health Centre,Central,Awutu Senya West,Awutu Senya West,-0.51446,5.51276,6,Health Centre,Health Centre,no
+Bawjiase Polyclinic,Central,Awutu Senya West,Awutu Senya West,-0.55191,5.68477,4,District Hospital,District Hospital,yes
+Bontrase Health Centre,Central,Awutu Senya West,Awutu Senya West,-0.55935,5.60812,6,Health Centre,Health Centre,no
+Senya Health Centre,Central,Awutu Senya West,Awutu Senya West,-0.49736,5.39041,6,Health Centre,Health Centre,no
+Kasoa Polyclinic,Central,Awutu Senya East,Awutu Senya East,-0.42649,5.53377,4,District Hospital,District Hospital,yes
+Mother and Child Hospital,Central,Awutu Senya East,Awutu Senya East,-0.42903,5.53346,5,Hospital,Hospital,no
+Adisadel Urban Health Centre,Central,Cape Coast Metropolitan,Cape Coast Metropolitan,-1.26892,5.11936,6,Health Centre,Health Centre,no
+Cape Coast Metropolitan Hospital,Central,Cape Coast Metropolitan,Cape Coast Metropolitan,-1.27488,5.12254,4,District Hospital,District Hospital,no
+Cape Coast Teaching Hospital,Central,Cape Coast Metropolitan,Cape Coast Metropolitan,-1.27281,5.13136,3,Regional Hospital,Regional Hospital,yes
+C-Poly Clinic,Central,Cape Coast Metropolitan,Cape Coast Metropolitan,-1.26833,5.13639,7,Clinic,Clinic,no
+Essuakyir CHPS,Central,Cape Coast Metropolitan,Cape Coast Metropolitan,-1.27857,5.15363,7,Clinic,Clinic,no
+Ewim Polyclinic,Central,Cape Coast Metropolitan,Cape Coast Metropolitan,-1.24687,5.11084,5,Hospital,Hospital,yes
+University Hospital,Central,Cape Coast Metropolitan,Cape Coast Metropolitan,-1.27122,5.12212,5,Hospital,Hospital,no
+Ansaful CHPS,Central,Effutu Municipal,Effutu Municipal,-0.64828,5.38765,7,Clinic,Clinic,no
+Gyangyanadze CHPS,Central,Effutu Municipal,Effutu Municipal,-0.57662,5.39634,7,Clinic,Clinic,no
+Trauma & Specialist Hospital,Central,Effutu Municipal,Effutu Municipal,-0.64171,5.37163,5,Hospital,Hospital,no
+Winneba Health Centre,Central,Effutu Municipal,Effutu Municipal,-0.62415,5.36631,4,District Hospital,District Hospital,no
+Winneba Municipal Hospital,Central,Effutu Municipal,Effutu Municipal,-0.623084,5.34365,4,District Hospital,District Hospital,yes
+Essuehyia Health Centre,Central,Ekumfi,Ekumfi,-0.90658,5.306,6,Health Centre,Health Centre,no
+Otuam Health Centre,Central,Ekumfi,Ekumfi,-0.81092,5.21919,6,Health Centre,Health Centre,no
+Abasa CHPS,Central,Gomoa Central,Gomoa Central,-0.67491,5.46763,7,Clinic,Clinic,no
+Aboso CHPS,Central,Gomoa Central,Gomoa Central,-0.073597,5.61094,7,Clinic,Clinic,no
+Dahom CHPS,Central,Gomoa Central,Gomoa Central,-0.7463,5.4822,7,Clinic,Clinic,no
+Ekwamkrom CHPS,Central,Gomoa Central,Gomoa Central,-0.69449,5.51027,7,Clinic,Clinic,no
+Obuasi Health Centre,Central,Gomoa Central,Gomoa Central,-0.75465,5.50406,4,District Hospital,District Hospital,no
+Dasum CHPS,Central,Gomoa East,Gomoa East,-0.58258,5.57415,7,Clinic,Clinic,no
+Nyanyano Health Centre,Central,Gomoa East,Gomoa East,-0.41805,5.47035,6,Health Centre,Health Centre,no
+Ojobi  Health Centre,Central,Gomoa East,Gomoa East,-0.53145,5.48019,6,Health Centre,Health Centre,no
+St Gregory Catholic Hospital,Central,Gomoa East,Gomoa East,-0.475,5.52376,5,Hospital,Hospital,no
+Brofo Health Centre,Central,Gomoa West,Gomoa West,-0.85706,5.3622,6,Health Centre,Health Centre,no
+Dago Health Centre,Central,Gomoa West,Gomoa West,-0.79708,5.24189,6,Health Centre,Health Centre,no
+Dawurampong Polyclinic,Central,Gomoa West,Gomoa West,-0.7873,5.43496,5,Hospital,Hospital,no
+Oguaa Health Centre,Central,Gomoa West,Gomoa West,-0.81467,5.42006,6,Health Centre,Health Centre,no
+Osedzie Health Centre,Central,Gomoa West,Gomoa West,-0.78996,5.44635,6,Health Centre,Health Centre,no
+St Luke Catholic Hospital Apam,Central,Gomoa West,Gomoa West,-0.73949,5.28025,4,District Hospital,District Hospital,yes
+Agona Health Centre - Komenda,Central,Komenda-Edina-Eguafo-Abirem,Komenda-Edina-Eguafo-Abirem,-1.43033,5.18953,6,Health Centre,Health Centre,no
+Ankaful Gen Leprosy Hospital,Central,Komenda-Edina-Eguafo-Abirem,Komenda-Edina-Eguafo-Abirem,-1.31792,5.14981,5,Hospital,Hospital,no
+Brenu Akyinim CHPS,Central,Komenda-Edina-Eguafo-Abirem,Komenda-Edina-Eguafo-Abirem,-1.43745,5.06426,7,Clinic,Clinic,no
+Elmina Polyclinic,Central,Komenda-Edina-Eguafo-Abirem,Komenda-Edina-Eguafo-Abirem,-1.43745,5.06426,4,District Hospital,District Hospital,no
+Kissi Health Centre,Central,Komenda-Edina-Eguafo-Abirem,Komenda-Edina-Eguafo-Abirem,-1.50598,5.08749,6,Health Centre,Health Centre,no
+Komenda Health Centre,Central,Komenda-Edina-Eguafo-Abirem,Komenda-Edina-Eguafo-Abirem,-1.49301,5.0528,6,Health Centre,Health Centre,no
+Abandze Health Centre,Central,Mfantseman,Mfantseman,-1.0875,5.1972,6,Health Centre,Health Centre,no
+Anomabo Health Centre,Central,Mfantseman,Mfantseman,-1.12844,5.17717,6,Health Centre,Health Centre,no
+Biriwa Health Centre,Central,Mfantseman,Mfantseman,-1.14719,5.16775,6,Health Centre,Health Centre,no
+Biriwa Polyclinic,Central,Mfantseman,Mfantseman,-1.11619,5.1618,5,Hospital,Hospital,no
+Dominase Health Centre,Central,Mfantseman,Mfantseman,-1.0943,5.3513,6,Health Centre,Health Centre,no
+Mankessim Health Centre,Central,Mfantseman,Mfantseman,-1.01841,5.26758,6,Health Centre,Health Centre,no
+Mercy Women Catholic Hospital,Central,Mfantseman,Mfantseman,-1.01739,5.25571,5,Hospital,Hospital,no
+Saltpond Municipal Hospital,Central,Mfantseman,Mfantseman,-1.0561,5.20461,4,District Hospital,District Hospital,yes
+Morkwa Health Centre,Central,Twifo Atti-Morkwa,Twifo Atti-Morkwa,-1.60497,5.70266,6,Health Centre,Health Centre,no
+Twifo Ati Morkwa District Hospital,Central,Twifo Atti-Morkwa,Twifo Atti-Morkwa,-1.54897,5.61072,4,District Hospital,District Hospital,yes
+Frami Health Centre,Central,Twifo Hemang Lower Denkyira,Twifo Hemang Lower Denkyira,-1.37117,5.30881,6,Health Centre,Health Centre,no
+Hemang Health Centre,Central,Twifo Hemang Lower Denkyira,Twifo Hemang Lower Denkyira,-1.53308,5.50958,4,District Hospital,District Hospital,no
+Jukwa Health Centre,Central,Twifo Hemang Lower Denkyira,Twifo Hemang Lower Denkyira,-1.33306,5.25983,6,Health Centre,Health Centre,no
+Dunkwa Municipal Hospital,Central,Upper Denkyira East,Upper Denkyira East,-1.77618,5.96298,4,District Hospital,District Hospital,yes
+Kyekyewere Health Centre,Central,Upper Denkyira East,Upper Denkyira East,-1.67974,5.91659,6,Health Centre,Health Centre,no
+St Mark Hospital,Central,Upper Denkyira East,Upper Denkyira East,-1.78925,5.9584,5,Hospital,Hospital,no
+Diaso Health Centre,Central,Upper Denkyira West,Upper Denkyira West,-2.09091,6.09157,7,Clinic,Clinic,no
+Pentecost Health Centre,Central,Upper Denkyira West,Upper Denkyira West,-2.53345,5.57673,5,Hospital,Hospital,no
+SDA Clinic,Central,Upper Denkyira West,Upper Denkyira West,-2.57876,6.22763,7,Clinic,Clinic,no
+Subin Health Centre,Central,Upper Denkyira West,Upper Denkyira West,-2.00427,6.20048,4,District Hospital,District Hospital,no
+Hawa Memorial Saviour Hospital,Eastern,Abuakwa North,Abuakwa North,-0.4241,6.25179,5,Hospital,Hospital,no
+New Tafo Government Hospital,Eastern,Abuakwa North,Abuakwa North,-0.36601,6.23144,4,District Hospital,District Hospital,no
+Kibi Government Hospital,Eastern,Abuakwa South,Abuakwa South,-0.55463,6.16782,4,District Hospital,District Hospital,yes
+Achiase Health Centre,Eastern,Achiase,Achiase,-1.00068,5.84479,4,District Hospital,District Hospital,no
+Akenkensu CHPS,Eastern,Achiase,Achiase,-1.13002,5.82455,7,Clinic,Clinic,no
+Anamase CHPS,Eastern,Achiase,Achiase,-0.90554,5.87758,7,Clinic,Clinic,no
+Aperade Health Centre,Eastern,Achiase,Achiase,-1.09415,5.79261,6,Health Centre,Health Centre,no
+Osoroase CHPS,Eastern,Achiase,Achiase,-0.96989,5.84424,7,Clinic,Clinic,no
+Adawso Health Centre,Eastern,Akwapem North,Akwapem North,-0.21067,5.94825,6,Health Centre,Health Centre,no
+Akropong Health Centre,Eastern,Akwapem North,Akwapem North,-0.0779,5.98148,6,Health Centre,Health Centre,no
+Larteh Health Centre,Eastern,Akwapem North,Akwapem North,-0.07314,5.93509,6,Health Centre,Health Centre,no
+Mampong Urban CHPS,Eastern,Akwapem North,Akwapem North,-0.53333,6.38333,7,Clinic,Clinic,no
+Mangoase (AKN) Health Centre,Eastern,Akwapem North,Akwapem North,-0.3,5.95,6,Health Centre,Health Centre,no
+Okorase CHPS,Eastern,Akwapem North,Akwapem North,-0.26125,6.04597,7,Clinic,Clinic,no
+Tetteh Quarshie Memorial Hospital,Eastern,Akwapem North,Akwapem North,-0.13406,5.92153,4,District Hospital,District Hospital,yes
+Tinkong CHPS,Eastern,Akwapem North,Akwapem North,-0.26218,5.99079,7,Clinic,Clinic,no
+Tutu CHPS,Eastern,Akwapem North,Akwapem North,-0.15,5.88333,7,Clinic,Clinic,no
+Kom Health Centre,EASTERN,AKWAPEM SOUTH,AKWAPEM SOUTH,-0.17019,5.85683,6,Health Centre,Health Centre,no
+ Presbyterian Health Centre - Kom Aburi,Eastern,Akwapem South,Akwapem South,-0.17019,5.85683,6,Health Centre,Health Centre,no
+Berekuso Health Centre,Eastern,Akwapem South,Akwapem South,-0.228687,5.75688,4,District Hospital,District Hospital,no
+Obotwere Health Centre,Eastern,Akwapem South,Akwapem South,-0.283558,5.85786,6,Health Centre,Health Centre,no
+Pakro Health Centre,Eastern,Akwapem South,Akwapem South,-0.31333,5.90687,6,Health Centre,Health Centre,no
+Pokrom Health Centre,Eastern,Akwapem South,Akwapem South,-0.23766,5.82616,6,Health Centre,Health Centre,no
+Anyinase Health Centre,Eastern,Akyem Mansa,Akyem Mansa,-1.05213,5.99417,4,District Hospital,District Hospital,no
+Brenase Health Centre,Eastern,Akyem Mansa,Akyem Mansa,-1.14121,6.18449,6,Health Centre,Health Centre,no
+Akroso Health Centre,EASTERN,ASENE MANSO AKROSO,ASENE MANSO AKROSO,-0.76667,5.76667,4,District Hospital,District Hospital,no
+Asuboa CHPS,Eastern,Asene Manso Akroso,Asene Manso Akroso,-0.869944,5.885,7,Clinic,Clinic,no
+Onomabo CHPS,Eastern,Asene Manso Akroso,Asene Manso Akroso,-0.77973,5.89328,7,Clinic,Clinic,no
+Adjena Health Centre,Eastern,Asuogyaman,Asuogyaman,0.06181,6.36068,6,Health Centre,Health Centre,no
+Akosombo VRA Hospital,Eastern,Asuogyaman,Asuogyaman,0.057556,6.26391,4,District Hospital,District Hospital,yes
+Apeguso Clinic,Eastern,Asuogyaman,Asuogyaman,0.15766,6.31519,7,Clinic,Clinic,no
+Boso CHPS,Eastern,Asuogyaman,Asuogyaman,0.1762,6.53696,7,Clinic,Clinic,no
+Frankadua Clinic,Eastern,Asuogyaman,Asuogyaman,0.17255,6.33984,7,Clinic,Clinic,no
+Senchi Ferry Asuogyaman,Eastern,Asuogyaman,Asuogyaman,0.09173,6.20599,7,Clinic,Clinic,no
+Senchi Ferry CHPS,Eastern,Asuogyaman,Asuogyaman,0.08333,6.2,7,Clinic,Clinic,no
+Enyiresi Hospital,Eastern,Atiwa East,Atiwa East,-0.586824,6.43694,4,District Hospital,District Hospital,yes
+New Jejeti Health Centre,Eastern,Atiwa East,Atiwa East,-0.65,6.48333,6,Health Centre,Health Centre,no
+Abomosu Health Centre,Eastern,Atiwa West,Atiwa West,-0.73393,6.30049,4,District Hospital,District Hospital,no
+Awenare Health Center,Eastern,Atiwa West,Atiwa West,-0.62147,6.27185,6,Health Centre,Health Centre,no
+Kwabeng (atiwa) Health Centre,Eastern,Atiwa West,Atiwa West,-0.59299,6.32163,6,Health Centre,Health Centre,no
+Amanase Health Centre,Eastern,Ayensuano,Ayensuano,-0.43058,5.99208,4,District Hospital,District Hospital,no
+Asuboi Health Centre,Eastern,Ayensuano,Ayensuano,-0.41513,5.95113,6,Health Centre,Health Centre,no
+Marfo Health Centre,Eastern,Ayensuano,Ayensuano,-0.4345,5.86356,6,Health Centre,Health Centre,no
+Oda Hospital,Eastern,Birim Central,Birim Central,-0.9851,5.92803,4,District Hospital,District Hospital,yes
+Amuana Praso Health Centre,Eastern,Birim North,Birim North,-0.97892,6.51398,6,Health Centre,Health Centre,no
+New Abirem Hospital,Eastern,Birim North,Birim North,-0.99725,6.33577,4,District Hospital,District Hospital,yes
+Noyem CHPS,Eastern,Birim North,Birim North,-1.00417,6.42354,7,Clinic,Clinic,no
+Pankese CHPS,Eastern,Birim North,Birim North,-0.84364,6.50822,7,Clinic,Clinic,no
+St Michaels Clinic,Eastern,Birim North,Birim North,-1.07836,6.34165,7,Clinic,Clinic,no
+Tweapease Health Centre,Eastern,Birim North,Birim North,-0.91241,6.37997,6,Health Centre,Health Centre,no
+Apoli Health Centre,Eastern,Birim South,Birim South,-1.15,5.95,6,Health Centre,Health Centre,no
+Swedru Catholic Clinic,Eastern,Birim South,Birim South,-1.01674,5.88967,7,Clinic,Clinic,no
+Akwatia CHPS,Eastern,Denkyembour,Denkyembour,-0.80862,6.03754,7,Clinic,Clinic,no
+GCD Hospital,Eastern,Denkyembour,Denkyembour,-0.8074,6.0323,5,Hospital,Hospital,no
+St Dominic Hospital,Eastern,Denkyembour,Denkyembour,-0.79876,6.04703,4,District Hospital,District Hospital,yes
+Takrowase Health Centre,Eastern,Denkyembour,Denkyembour,-0.88505,6.02534,6,Health Centre,Health Centre,no
+Begoro Hospital,Eastern,Fanteakwa North,Fanteakwa North,-0.36872,6.39806,4,District Hospital,District Hospital,yes
+Begoro Salvation Army Clinic,Eastern,Fanteakwa North,Fanteakwa North,-0.38333,6.38333,7,Clinic,Clinic,no
+Ame Zion Health Centre,Eastern,Fanteakwa South,Fanteakwa South,-0.48116,6.34263,6,Health Centre,Health Centre,no
+Bosuso Health Centre,Eastern,Fanteakwa South,Fanteakwa South,-0.40757,6.29669,4,District Hospital,District Hospital,no
+Abehenease CHPS,Eastern,Kwaebibirem,Kwaebibirem,-0.89416,6.3515,7,Clinic,Clinic,no
+Asuom Health Centre,Eastern,Kwaebibirem,Kwaebibirem,-0.86879,6.277,6,Health Centre,Health Centre,no
+Kade Govt Hospital,Eastern,Kwaebibirem,Kwaebibirem,-0.83969,6.10046,4,District Hospital,District Hospital,yes
+Takyiman CHPS,Eastern,Kwaebibirem,Kwaebibirem,-0.66809,6.16255,7,Clinic,Clinic,no
+Holy Rosary Health Centre,Eastern,Kwahu Afram Plains North,Kwahu Afram Plains North,-0.03252,7.05258,6,Health Centre,Health Centre,no
+Presbyterian Hospital -Donkorkrom,Eastern,Kwahu Afram Plains North,Kwahu Afram Plains North,-0.07721,7.04916,4,District Hospital,District Hospital,yes
+Asanyanso Health Centre,Eastern,Kwahu Afram Plains South,Kwahu Afram Plains South,-0.51929,7.03752,6,Health Centre,Health Centre,no
+Holy Spirit Health Centre,Eastern,Kwahu Afram Plains South,Kwahu Afram Plains South,-0.48886,7.03143,6,Health Centre,Health Centre,no
+Maame Krobo Health Centre,Eastern,Kwahu Afram Plains South,Kwahu Afram Plains South,-0.43257,6.95034,4,District Hospital,District Hospital,no
+Akwasiho Health Centre,Eastern,Kwahu East,Kwahu East,-0.82162,6.61459,6,Health Centre,Health Centre,no
+Nkwatia Health Centre,Eastern,Kwahu East,Kwahu East,-0.73549,6.62742,6,Health Centre,Health Centre,no
+Pepease Health Centre,Eastern,Kwahu East,Kwahu East,-0.74266,6.69176,6,Health Centre,Health Centre,no
+St Joseph (kwE) Clinic,Eastern,Kwahu East,Kwahu East,-0.66619,6.65191,7,Clinic,Clinic,no
+Bepong Health Centre,Eastern,Kwahu South,Kwahu South,-0.70916,6.59929,6,Health Centre,Health Centre,no
+Kwahu Government Hospital,Eastern,Kwahu South,Kwahu South,-0.73426,6.58115,4,District Hospital,District Hospital,yes
+Kwahu Praso Presby Health Centre,Eastern,Kwahu South,Kwahu South,-0.9,6.61667,6,Health Centre,Health Centre,no
+Nkyenenkyene Health Centre,Eastern,Kwahu South,Kwahu South,-0.55157,6.70309,6,Health Centre,Health Centre,no
+Holy Family (Kwahu West) District Hospital,Eastern,Kwahu West,Kwahu West,-0.77357,6.54742,4,District Hospital,District Hospital,yes
+Akuse Government Hospital,Eastern,Lower Manya Krobo,Lower Manya Krobo,-0.1248,6.09793,5,Hospital,Hospital,no
+Atua Government Hospital,Eastern,Lower Manya Krobo,Lower Manya Krobo,-0.00824,6.11947,4,District Hospital,District Hospital,yes
+Kpong Health Centre,Eastern,Lower Manya Krobo,Lower Manya Krobo,0.06422,6.16414,6,Health Centre,Health Centre,no
+Oborpa Health Centre,Eastern,Lower Manya Krobo,Lower Manya Krobo,-0.08093,6.17315,6,Health Centre,Health Centre,no
+Odumase (LMKM) Health Centre,Eastern,Lower Manya Krobo,Lower Manya Krobo,0.0063,6.13795,6,Health Centre,Health Centre,no
+St. Martin's de Porres Hospital - Agomanya,Eastern,Lower Manya Krobo,Lower Manya Krobo,0.01515,6.14459,5,Hospital,Hospital,yes
+Akwadum Health Centre,Eastern,New Juaben North,New Juaben North,-0.34303,6.11358,6,Health Centre,Health Centre,no
+Jumapo Health Centre,Eastern,New Juaben North,New Juaben North,-0.29751,6.159,6,Health Centre,Health Centre,no
+St Joseph's (New Juabeng) Hospital,Eastern,New Juaben North,New Juaben North,-0.27238,6.1012,4,District Hospital,District Hospital,no
+Eastern Regional Hospital,Eastern,New Juaben South,New Juaben South,-0.25719,6.09664,3,Regional Hospital,Regional Hospital,yes
+Koforidua Poly Clinic,Eastern,New Juaben South,New Juaben South,-0.25814,6.09458,4,District Hospital,District Hospital,no
+Koforidua SDA Hospital,Eastern,New Juaben South,New Juaben South,-0.26579,6.09603,7,Clinic,Clinic,no
+Adoagyiri Health Centre,Eastern,Nsawam Adoagyire,Nsawam Adoagyire,-0.35454,5.81884,6,Health Centre,Health Centre,no
+Djankrom Health Centre,Eastern,Nsawam Adoagyire,Nsawam Adoagyire,-0.34992,5.81652,6,Health Centre,Health Centre,no
+Nsawam Government Hospital,Eastern,Nsawam Adoagyire,Nsawam Adoagyire,-0.33749,5.81045,4,District Hospital,District Hospital,yes
+Nsawam Health Centre,Eastern,Nsawam Adoagyire,Nsawam Adoagyire,-0.35196,5.80635,6,Health Centre,Health Centre,no
+Prisons Clinic,Eastern,Nsawam Adoagyire,Nsawam Adoagyire,-0.33312,5.80402,7,Clinic,Clinic,no
+Abiriw Clinic,Eastern,Okere,Okere,-0.08941,5.97987,7,Clinic,Clinic,no
+Adukrom Health Centre,Eastern,Okere,Okere,-0.08333,6.01667,4,District Hospital,District Hospital,no
+Okrakwadjo Health Centre,Eastern,Okere,Okere,-0.10579,6.1087,6,Health Centre,Health Centre,no
+Akorabo Health Centre,Eastern,Suhum,Suhum,-0.35587,6.02362,6,Health Centre,Health Centre,no
+Suhum District Hospital,Eastern,Suhum,Suhum,-0.44529,6.03715,4,District Hospital,District Hospital,yes
+Akateng Health Centre,Eastern,Upper Manya Krobo,Upper Manya Krobo,-0.15464,6.51707,6,Health Centre,Health Centre,no
+Anyaboni Health Centre,Eastern,Upper Manya Krobo,Upper Manya Krobo,-0.06999,6.33987,6,Health Centre,Health Centre,no
+Asesewa CHPS,Eastern,Upper Manya Krobo,Upper Manya Krobo,0.14694,6.40178,7,Clinic,Clinic,no
+Asesewa Government Hospital,Eastern,Upper Manya Krobo,Upper Manya Krobo,-0.14694,6.40178,4,District Hospital,District Hospital,yes
+Dzamam CHPS,Eastern,Upper Manya Krobo,Upper Manya Krobo,-0.21566,6.37646,7,Clinic,Clinic,no
+Sekesua Health Centre,Eastern,Upper Manya Krobo,Upper Manya Krobo,-0.19021,6.31455,6,Health Centre,Health Centre,no
+Sisiamang CHPS,Eastern,Upper Manya Krobo,Upper Manya Krobo,-0.17421,6.4381,7,Clinic,Clinic,no
+Abamkrom CHPS,Eastern,Upper West Akim,Upper West Akim,-0.63333,5.73333,4,District Hospital,District Hospital,no
+Adeiso Health Centre,Eastern,Upper West Akim,Upper West Akim,-0.49067,5.79986,6,Health Centre,Health Centre,yes
+Mepom Health Centre,Eastern,Upper West Akim,Upper West Akim,-0.60035,5.79572,6,Health Centre,Health Centre,no
+Nyanua CHPS,Eastern,Upper West Akim,Upper West Akim,-0.62011,5.72857,7,Clinic,Clinic,no
+Okurase CHPS,Eastern,Upper West Akim,Upper West Akim,-0.52097,5.79636,7,Clinic,Clinic,no
+Akanteng Health Centre,Eastern,West Akim,West Akim,-0.69844,6.01223,6,Health Centre,Health Centre,no
+Asamankese Government Hospital,Eastern,West Akim,West Akim,-0.6788,5.85415,4,District Hospital,District Hospital,yes
+Asamankese Health Centre,Eastern,West Akim,West Akim,-0.66536,5.85852,6,Health Centre,Health Centre,no
+Osenase Health Centre,Eastern,West Akim,West Akim,-0.75751,5.96037,6,Health Centre,Health Centre,no
+Klo-Agogo (yilo Krobo) Polyclinic,Eastern,Yilo Krobo,Yilo Krobo,-0.222,6.25112,5,Hospital,Hospital,no
+Nkurakan Health Centre,Eastern,Yilo Krobo,Yilo Krobo,-0.21791,6.12462,6,Health Centre,Health Centre,no
+Somanya Polyclinic,Eastern,Yilo Krobo,Yilo Krobo,-0.01842,6.09773,4,District Hospital,District Hospital,no
+Primecare Medical Centre,Greater Accra,Ablekuma Central,Ablekuma Central,-0.2468,5.56094,7,Clinic,Clinic,no
+St. Martins Memorial Hospital,Greater Accra,Ablekuma Central,Ablekuma Central,-0.25545,5.54563,5,Hospital,Hospital,no
+Amoah Memorial Hospital,Greater Accra,Ablekuma North,Ablekuma North,-0.27978,5.58562,4,District Hospital,District Hospital,no
+Dansoman Polyclinic,Greater Accra,Ablekuma West,Ablekuma West,-0.26004,5.56129,4,District Hospital,District Hospital,no
+Royal MMR Hospital,Greater Accra,Ablekuma West,Ablekuma West,-0.26678,5.52129,5,Hospital,Hospital,no
+Cocoa Clinic,Greater Accra,Accra Metropolis,Accra Metropolis,-0.235932,5.57164,7,Clinic,Clinic,no
+Kaneshie Polyclinic,Greater Accra,Accra Metropolis,Accra Metropolis,-0.252056,5.5691,5,Hospital,Hospital,yes
+Korle-bu Teaching Hospital,Greater Accra,Accra Metropolis,Accra Metropolis,-0.22712,5.53738,4,District Hospital,District Hospital,yes
+Mamprobi Hospital,Greater Accra,Accra Metropolis,Accra Metropolis,-0.24516,5.53834,5,Hospital,Hospital,no
+Megavest Medical Centre,Greater Accra,Accra Metropolis,Accra Metropolis,-0.247226,5.58878,7,Clinic,Clinic,no
+Noguchi Health Centre,GREATER ACCRA,Accra Metropolis,Accra Metropolis,-0.70777,5.35997,6,Health Centre,Health Centre,yes
+PML Hospital,Greater Accra,Accra Metropolis,Accra Metropolis,-0.21346,5.54503,5,Hospital,Hospital,no
+Ussher Hospital,Greater Accra,Accra Metropolis,Accra Metropolis,-0.21308,5.54032,5,Hospital,Hospital,no
+Ada  East District Hospital,Greater Accra,Ada East,Ada East,0.56916,5.88872,4,District Hospital,District Hospital,yes
+Ada Health Centre,Greater Accra,Ada East,Ada East,0.62713,5.78484,6,Health Centre,Health Centre,no
+Kasseh Health Centre,Greater Accra,Ada East,Ada East,0.52294,5.89665,6,Health Centre,Health Centre,no
+Anyaman Health Centre,Greater Accra,Ada West,Ada West,0.36983,5.79134,6,Health Centre,Health Centre,no
+Adjiringano Health Centre,Greater Accra,Adenta,Adenta,-0.13352,5.64614,6,Health Centre,Health Centre,no
+Ogbojo Polyclinic,Greater Accra,Adenta,Adenta,-0.14364,5.66499,4,District Hospital,District Hospital,no
+St. John Of God Clinic,Greater Accra,Adenta,Adenta,-0.13989,5.77308,7,Clinic,Clinic,no
+Ashaiman Polyclinic,Greater Accra,Ashaiman,Ashaiman,-0.03945,5.68576,4,District Hospital,District Hospital,yes
+Darbem Clinic,Greater Accra,Ashaiman,Ashaiman,-0.03603,5.6831,7,Clinic,Clinic,no
+St Florence Clinic,Greater Accra,Ashaiman,Ashaiman,-0.03285,5.68808,7,Clinic,Clinic,no
+Mallam Atta Clinic,Greater Accra,Ayawaso Central,Ayawaso Central,-0.208328,5.57872,7,Clinic,Clinic,no
+37 Military Hospital,Greater Accra,Ayawaso East,Ayawaso East,-0.182855,5.59028,5,Hospital,Hospital,yes
+Nima Polyclinic,Greater Accra,Ayawaso East,Ayawaso East,-0.200089,5.57771,4,District Hospital,District Hospital,no
+Maamobi General Hospital,Greater Accra,Ayawaso North,Ayawaso North,-0.198776,5.5915,4,District Hospital,District Hospital,yes
+University Hospital Legon,Greater Accra,Ayawaso West,Ayawaso West,-0.177759,5.6522,5,Hospital,Hospital,no
+University Of Ghana Medical Centre,Greater Accra,Ayawaso West,Ayawaso West,-0.185922,5.63234,4,District Hospital,District Hospital,yes
+Anyaa Polyclinic,Greater Accra,Ga Central,Ga Central,-0.303498,5.59974,5,Hospital,Hospital,no
+Ga Central Municipal Clinic,Greater Accra,Ga Central,Ga Central,-0.2708,5.60487,4,District Hospital,District Hospital,no
+Sowutuom RCH Clinic,Greater Accra,Ga Central,Ga Central,-0.283386,5.62454,7,Clinic,Clinic,no
+Abokobi Health Centre,Greater Accra,Ga East,Ga East,-0.2031,5.73487,6,Health Centre,Health Centre,no
+Ga East Municipal Hospital,Greater Accra,Ga East,Ga East,-0.205295,5.56774,4,District Hospital,District Hospital,yes
+International Health Care Centre,Greater Accra,Ga East,Ga East,-0.20363,5.67203,7,Clinic,Clinic,no
+Taifa Polyclinic (RCH),Greater Accra,Ga East,Ga East,-0.2533,5.66721,4,District Hospital,District Hospital,no
+Ga North Municipal Hospital,Greater Accra,Ga North,Ga North,-0.277823,5.65519,4,District Hospital,District Hospital,no
+Pokuase Health Centre,Greater Accra,Ga North,Ga North,-0.28329,5.69132,6,Health Centre,Health Centre,no
+Amanfro Polyclinic,Greater Accra,Ga South,Ga South,-0.41143,5.53648,4,District Hospital,District Hospital,no
+Aplaku Family Fitness Clinic,Greater Accra,Ga South,Ga South,-0.3271,5.52322,6,Health Centre,Health Centre,no
+Bortianor Polyclinic,Greater Accra,Ga South,Ga South,-0.34467,5.50576,5,Hospital,Hospital,no
+Kokrobite Health Centre,Greater Accra,Ga South,Ga South,-0.37038,5.5015,6,Health Centre,Health Centre,no
+Obom Health Centre,Greater Accra,Ga South,Ga South,-0.43974,5.73573,6,Health Centre,Health Centre,no
+Ga West Municipal Hospital,Greater Accra,Ga West,Ga West,-0.2996,5.7021,4,District Hospital,District Hospital,yes
+Kojo Ashong Community Clinic,Greater Accra,Ga West,Ga West,-0.4002,5.7188,7,Clinic,Clinic,no
+Kotoku Health Centre,Greater Accra,Ga West,Ga West,-0.349239,5.7467,7,Clinic,Clinic,no
+Mayera Faase Health Centre,Greater Accra,Ga West,Ga West,-0.27017,5.7207,6,Health Centre,Health Centre,no
+Oduman Polyclinic,Greater Accra,Ga West,Ga West,-0.33042,5.64171,5,Hospital,Hospital,no
+Adabraka Polyclinic,Greater Accra,Korle Klottey,Korle Klottey,-0.20401,5.5622,4,District Hospital,District Hospital,no
+Civil Service Clinic,Greater Accra,Korle Klottey,Korle Klottey,-0.19631,5.55102,7,Clinic,Clinic,no
+Iran Clinic,Greater Accra,Korle Klottey,Korle Klottey,-0.21133,5.56757,7,Clinic,Clinic,yes
+Ridge Regional Hospital,Greater Accra,Korle Klottey,Korle Klottey,-0.19881,5.56218,3,Regional Hospital,Regional Hospital,yes
+Osu Trust Hospital,GREATER ACCRA,Korle Klottey,Korle Klottey,-0.18177,5.56244,5,Hospital,Hospital,yes
+1 Medical Reception Station(1MRS),Greater Accra,Kpone Katamanso,Kpone Katamanso,-0.02543,5.72893,7,Clinic,Clinic,no
+Kpone Polyclinic,Greater Accra,Kpone Katamanso,Kpone Katamanso,0.05831,5.69231,6,Health Centre,Health Centre,yes
+Oyibi Health Centre,Greater Accra,Kpone Katamanso,Kpone Katamanso,-0.10801,5.80648,6,Health Centre,Health Centre,no
+Zenu Health Centre,Greater Accra,Kpone Katamanso,Kpone Katamanso,-0.06012,5.731,6,Health Centre,Health Centre,no
+Christian Medical Centre,Greater Accra,Krowor,Krowor,-0.07769,5.60656,5,Hospital,Hospital,no
+LEKMA Polyclinic,Greater Accra,Krowor,Krowor,-0.07896,5.5974,4,District Hospital,District Hospital,no
+Accra Police Hospital,Greater Accra,La Dade-Kotopon,La Dade-Kotopon,-0.18107,5.56825,5,Hospital,Hospital,no
+La General Hospital,Greater Accra,La Dade-Kotopon,La Dade-Kotopon,-0.16631,5.55552,4,District Hospital,District Hospital,yes
+Danfa Health Centre,Greater Accra,La-Nkwantanang-Madina,La-Nkwantanang-Madina,-0.15942,5.78939,6,Health Centre,Health Centre,no
+Madina Polyclinic (Kekele),Greater Accra,La-Nkwantanang-Madina,La-Nkwantanang-Madina,-0.16741,5.67898,4,District Hospital,District Hospital,yes
+Madina Polyclinic (Rawlings Circle),Greater Accra,La-Nkwantanang-Madina,La-Nkwantanang-Madina,-0.16515,5.66749,5,Hospital,Hospital,no
+Pantang Hospital,Greater Accra,La-Nkwantanang-Madina,La-Nkwantanang-Madina,-0.18734,5.71482,5,Hospital,Hospital,no
+Pentecost Hospital,Greater Accra,La-Nkwantanang-Madina,La-Nkwantanang-Madina,-0.15747,5.66398,5,Hospital,Hospital,no
+LEKMA Hospital,Greater Accra,Ledzokuku,Ledzokuku,-0.11998,5.60237,4,District Hospital,District Hospital,yes
+Manna Mission Hospital,Greater Accra,Ledzokuku,Ledzokuku,-0.10872,5.60706,5,Hospital,Hospital,no
+Lekpongunor CHPS,Greater Accra,Ningo Prampram,Ningo Prampram,0.317,5.7854,7,Clinic,Clinic,no
+Nyigbenya CHPS,Greater Accra,Ningo Prampram,Ningo Prampram,0.21885,5.83471,7,Clinic,Clinic,no
+Old Ningo Health Centre,Greater Accra,Ningo Prampram,Ningo Prampram,0.18647,5.75161,6,Health Centre,Health Centre,no
+Prampram Polyclinic,Greater Accra,Ningo Prampram,Ningo Prampram,0.11002,5.71177,4,District Hospital,District Hospital,no
+Achimota Hospital,Greater Accra,Okaikwei North,Okaikwei North,-0.217153,5.62914,4,District Hospital,District Hospital,yes
+Ark Clinic,Greater Accra,OkaiKwei North,OkaiKwei North,-0.252383,5.60612,7,Clinic,Clinic,no
+Lapaz Community Hopital,GREATER ACCRA,OKAIKWEI NORTH,OKAIKWEI NORTH,-0.253321,5.60843,5,Hospital,Hospital,yes
+Shai Osudoku Hospital,Greater Accra,Shai Osudoku,Shai Osudoku,0.09238,5.88561,4,District Hospital,District Hospital,yes
+Manhean Polyclinic,Greater Accra,Tema Metropolitan,Tema Metropolitan,0.02428,5.64783,5,Hospital,Hospital,no
+Tema General Hospital,Greater Accra,Tema Metropolitan,Tema Metropolitan,-0.02496,5.67387,4,District Hospital,District Hospital,yes
+Tema Polyclinic,Greater Accra,Tema West,Tema West,-0.00667,5.63556,4,District Hospital,District Hospital,no
+Mallam Demonstration Clinic,Greater Accra,Weija Gbawe,Weija Gbawe,-0.29943,5.57782,7,Clinic,Clinic,no
+Oblogo Health Centre,Greater Accra,Weija Gbawe,Weija Gbawe,-0.306465,5.55805,6,Health Centre,Health Centre,no
+Weija-Gbawe Municipal Hospital,Greater Accra,Weija Gbawe,Weija Gbawe,-0.28996,5.56504,4,District Hospital,District Hospital,yes
+Binde  Hospital,North East,Bunkpurugu Nakpanduri,Bunkpurugu Nakpanduri,-0.02876,10.5656,4,District Hospital,District Hospital,yes
+Bunkpurugu Health Centre,North East,Bunkpurugu Nakpanduri,Bunkpurugu Nakpanduri,-0.08894,10.5224,6,Health Centre,Health Centre,no
+Chereponi Government Hospital,North East,Chereponi,Chereponi,0.291796,10.1406,4,District Hospital,District Hospital,no
+Baptist Hospital,North East,East Mamprusi,East Mamprusi,-0.36575,10.5197,3,Regional Hospital,Regional Hospital,yes
+Loagri CHPS,NORTH EAST,MAMPRUGU MOAGDURI,MAMPRUGU MOAGDURI,-1.00322,10.0043,7,Clinic,Clinic,no
+Fame (yiezesi) Health Centre,North East,Mamprugu Moagduri,Mamprugu Moagduri,-1.52641,10.2547,6,Health Centre,Health Centre,no
+Kubori Health Centre,North East,Mamprugu Moagduri,Mamprugu Moagduri,-1.296,10.1468,6,Health Centre,Health Centre,no
+Kunkwa Health Centre,North East,Mamprugu Moagduri,Mamprugu Moagduri,-1.12401,10.4155,6,Health Centre,Health Centre,no
+Walewale District Hospital,North East,West Mamprusi,West Mamprusi,-0.80582,10.3476,4,District Hospital,District Hospital,yes
+Yunyoo Health Centre,North East,Yunyoo-Nasuan,Yunyoo-Nasuan,-0.01575,10.4809,4,District Hospital,District Hospital,no
+Gushiegu District Hospital,Northern,Gushegu,Gushegu,-0.214457,9.92948,4,District Hospital,District Hospital,no
+Karaga District Hospital,Northern,Karaga,Karaga,-0.42901,9.92595,4,District Hospital,District Hospital,yes
+Bladjai EP Clinic,Northern,Kpandai,Kpandai,0.10328,8.37883,7,Clinic,Clinic,no
+ECG Hospital,Northern,Kpandai,Kpandai,0.016667,8.46667,5,Hospital,Hospital,no
+Fame Health Centre Kumdi,Northern,Kpandai,Kpandai,-0.20386,8.46489,6,Health Centre,Health Centre,no
+Kpandai  District Hospital,Northern,Kpandai,Kpandai,0.00606,8.46327,4,District Hospital,District Hospital,yes
+Oti River Health Centre,Northern,Kpandai,Kpandai,-0.07582,8.4505,6,Health Centre,Health Centre,no
+Kings Medical Centre,Northern,Kumbungu,Kumbungu,-0.948916,9.5338,4,District Hospital,District Hospital,no
+Jimle Health Centre,NORTHERN,MION,MION,-0.4828,9.40029,6,Health Centre,Health Centre,no
+Kukpalgu Health Centre,Northern,Mion,Mion,-0.14285,9.74632,4,District Hospital,District Hospital,no
+Nanton Health Centre,Northern,Nanton,Nanton,-0.734217,9.54572,4,District Hospital,District Hospital,no
+Tampion Health Center,Northern,Nanton,Nanton,-0.672917,9.57973,6,Health Centre,Health Centre,no
+Bimbilla  District Hospital,Northern,Nanumba North,Nanumba North,-0.05562,8.85756,4,District Hospital,District Hospital,yes
+St. Joseph Clinic & Mat Home - Chamba,Northern,Nanumba North,Nanumba North,-0.13959,8.69374,7,Clinic,Clinic,no
+Lungni Health Centre,Northern,Nanumba South,Nanumba South,-0.005883,8.55431,4,District Hospital,District Hospital,no
+Wulensi Polyclinic,Northern,Nanumba South,Nanumba South,0.002217,8.65275,6,Health Centre,Health Centre,no
+Assemblies of God Hospital,Northern,Saboba,Saboba,-0.31962,9.70975,4,District Hospital,District Hospital,yes
+Choggu Health Centre,Northern,Sagnerigu,Sagnerigu,-0.86565,9.43133,6,Health Centre,Health Centre,no
+Habana Hospital,Northern,Sagnerigu,Sagnerigu,-0.84219,9.4587,5,Hospital,Hospital,no
+St Lucy Polyclinic,NORTHERN,Sagnerigu,Sagnerigu,-0.014689,9.00734,5,Hospital,Hospital,no
+Savelugu District Hospital,Northern,Savelugu,Savelugu,-0.829267,9.61925,4,District Hospital,District Hospital,no
+Tamale Central Hospital,Northern,Tamale,Tamale,-0.83717,9.40574,5,Hospital,Hospital,yes
+Tamale SDA Hospital,Northern,Tamale,Tamale,-0.8318,9.39974,5,Hospital,Hospital,no
+Tamale Teaching Hospital,Northern,Tamale,Tamale,-0.852735,9.40788,3,Regional Hospital,Regional Hospital,yes
+Tamale West Hospital,Northern,Tamale,Tamale,-0.850863,9.40193,4,District Hospital,District Hospital,no
+Tatale District Hospital - Tatale,Northern,Tatale Sanguli,Tatale Sanguli,-0.528996,9.35927,4,District Hospital,District Hospital,no
+UDS Clinic,Northern,Tolon,Tolon,-0.88515,9.37511,7,Clinic,Clinic,no
+Yendi District Hospital,Northern,Yendi,Yendi,-0.00402,9.44604,4,District Hospital,District Hospital,yes
+Zabzugu District Hospital,Northern,Zabzugu,Zabzugu,0.36667,9.28333,4,District Hospital,District Hospital,yes
+Comfort Ofedie Memorial (Nkonya Ahenkro) Health Centre,Oti,Biakoye,Biakoye,0.3277,7.13179,6,Health Centre,Health Centre,no
+Worawora Hospital,Oti,Biakoye,Biakoye,0.37311,7.5165,4,District Hospital,District Hospital,yes
+Jasikan District Hospital,Oti,Jasikan,Jasikan,0.46421,7.40142,4,District Hospital,District Hospital,yes
+Kadjebi Health Centre,Oti,Kadjebi,Kadjebi,0.47384,7.5338,6,Health Centre,Health Centre,no
+St. Mary Theresa Hospital,Oti,Kadjebi,Kadjebi,0.51014,7.74199,4,District Hospital,District Hospital,yes
+Dambai Health Certre,Oti,Krachi East,Krachi East,0.18653,8.03891,3,Regional Hospital,Regional Hospital,yes
+Dormabin Health Centre,Oti,Krachi East,Krachi East,0.30785,7.83504,6,Health Centre,Health Centre,no
+Katanga (krachi East) Health Centre,Oti,Krachi East,Krachi East,0.33324,7.65851,6,Health Centre,Health Centre,no
+Tokoruanu Health Centre,Oti,Krachi East,Krachi East,0.31051,7.77129,6,Health Centre,Health Centre,no
+Banda Health Centre,Oti,Krachi Nchumuru,Krachi Nchumuru,-0.0965,8.2933,6,Health Centre,Health Centre,no
+Borae Health Centre,Oti,Krachi Nchumuru,Krachi Nchumuru,-0.03478,8.15676,6,Health Centre,Health Centre,no
+Chinderi Health Center,Oti,Krachi Nchumuru,Krachi Nchumuru,-0.155623,8.13196,4,District Hospital,District Hospital,no
+Grubi Health Centre,Oti,Krachi Nchumuru,Krachi Nchumuru,-0.17542,8.1754,6,Health Centre,Health Centre,no
+St Luke Clinic,Oti,Krachi Nchumuru,Krachi Nchumuru,-0.15421,8.14037,7,Clinic,Clinic,no
+Krachi West District Hospital,Oti,Krachi West,Krachi West,-0.05729,7.79476,4,District Hospital,District Hospital,yes
+Kpassa Health Centre,Oti,Nkwanta North,Nkwanta North,0.31394,8.49597,4,District Hospital,District Hospital,yes
+Nkwanta Municipal Hospital,Oti,Nkwanta South,Nkwanta South,0.50853,8.25819,4,District Hospital,District Hospital,yes
+Nkwanta St. Josephs Hospital,Oti,Nkwanta South,Nkwanta South,0.52184,8.24781,5,Hospital,Hospital,no
+Bamboi Health Centre,Savannah,Bole,Bole,-2.03238,8.16515,6,Health Centre,Health Centre,no
+Bole District Hospital,Savannah,Bole,Bole,-2.4875,9.02744,4,District Hospital,District Hospital,yes
+Tinga Health Centre,Savannah,Bole,Bole,-2.2243,8.5815,6,Health Centre,Health Centre,no
+Buipe Polyclinic,Savannah,Central Gonja,Central Gonja,-1.4635,8.78077,5,Hospital,Hospital,no
+Central Gonja District Hospital,Savannah,Central Gonja,Central Gonja,-1.4635,8.78077,4,District Hospital,District Hospital,yes
+Holistic Medicare,Savannah,Central Gonja,Central Gonja,-1.46467,8.78386,7,Clinic,Clinic,no
+Salaga District Hospital,Savannah,East Gonja,East Gonja,-0.51437,8.55733,4,District Hospital,District Hospital,yes
+Daboya Health Centre,SAVANNAH,NORTH GONJA,NORTH GONJA,-1.38479,9.52982,6,Health Centre,Health Centre,no
+Lingbinsi Health Centre,Savannah,North Gonja,North Gonja,-1.38825,9.52848,6,Health Centre,Health Centre,no
+Kpalbe Health Centre,Savannah,North East Gonja,North East Gonja,-0.55531,9.11986,4,District Hospital,District Hospital,no
+Good Shepherd Health Centre,Savannah,Sawla-Tuna-Kalba,Sawla-Tuna-Kalba,-2.41892,9.49369,6,Health Centre,Health Centre,no
+Sawla-Tuna_Kalba District Hospital,Savannah,Sawla-Tuna-Kalba,Sawla-Tuna-Kalba,-2.40191,9.26596,4,District Hospital,District Hospital,yes
+St. Anne's Hospital,Savannah,West Gonja,West Gonja,-1.79957,9.06271,3,Regional Hospital,Regional Hospital,yes
+Bawku Presby Hospital,Upper East,Bawku Municipal,Bawku Municipal,-0.23324,11.0618,4,District Hospital,District Hospital,yes
+Timonde Health Centre,Upper East,Bawku West,Bawku West,-0.41193,10.9156,6,Health Centre,Health Centre,no
+Zebilla Hospital,Upper East,Bawku West,Bawku West,-0.4733,10.9366,4,District Hospital,District Hospital,yes
+Binduri Health Centre,Upper East,Binduri,Binduri,-0.31329,10.9599,4,District Hospital,District Hospital,no
+Zuarungu Health Centre,Upper East,Bolga East,Bolga East,-0.7956,10.8806,4,District Hospital,District Hospital,no
+Regional Hospital Bolgatanga,Upper East,Bolgatanga Municipal,Bolgatanga Municipal,-0.86201,10.8071,3,Regional Hospital,Regional Hospital,yes
+Sherigu Health Centre,Upper East,Bolgatanga Municipal,Bolgatanga Municipal,-0.92323,10.7682,6,Health Centre,Health Centre,no
+Sumbrungu Health Centre,Upper East,Bolgatanga Municipal,Bolgatanga Municipal,-0.93265,10.8229,6,Health Centre,Health Centre,no
+Anafobisi Health Centre,Upper East,Bongo,Bongo,-0.81183,10.9117,7,Clinic,Clinic,no
+Bongo Hospital,Upper East,Bongo,Bongo,-0.80728,10.9145,4,District Hospital,District Hospital,yes
+Bongo Soe Health Centre,Upper East,Bongo,Bongo,-0.78179,10.9643,6,Health Centre,Health Centre,no
+Dua  Health Centre,Upper East,Bongo,Bongo,-0.80475,10.9097,6,Health Centre,Health Centre,no
+Namoo Health Centre,Upper East,Bongo,Bongo,-0.84775,10.9686,6,Health Centre,Health Centre,no
+Vea Health Centre,Upper East,Bongo,Bongo,-0.86572,10.8756,6,Health Centre,Health Centre,no
+Zorko Health Centre (New),Upper East,Bongo,Bongo,-0.908982,10.9246,6,Health Centre,Health Centre,no
+Sandema Hospital,Upper East,Builsa North,Builsa North,-1.27928,10.7285,4,District Hospital,District Hospital,yes
+St. Lucas Hospital,Upper East,Builsa North,Builsa North,-1.26623,10.659,6,Health Centre,Health Centre,no
+Fumbisi Health Centre,Upper East,Builsa South,Builsa South,-1.30606,10.4528,4,District Hospital,District Hospital,no
+Presbyterian Health Centre - Garu,Upper East,Garu,Garu,-0.17806,10.8495,4,District Hospital,District Hospital,yes
+War Memorial Hospital,Upper East,Kasena Nankana East,Kasena Nankana East,-1.09059,10.886,4,District Hospital,District Hospital,yes
+Chiana Health Centre,Upper East,Kasena Nankana West,Kasena Nankana West,-1.26726,10.858,6,Health Centre,Health Centre,no
+Paga Hospital,Upper East,Kasena Nankana West,Kasena Nankana West,-1.10076,10.9708,6,Health Centre,Health Centre,no
+Immaculate Conception Health Centre - Kongo,Upper East,Nabdam,Nabdam,-0.709321,10.8331,6,Health Centre,Health Centre,no
+Pelungu Health Centre,Upper East,Nabdam,Nabdam,-0.6954,10.8004,7,Clinic,Clinic,no
+Kulungungu Health Centre,Upper East,Pusiga,Pusiga,-0.20955,11.1466,6,Health Centre,Health Centre,no
+Pusiga Health Centre,Upper East,Pusiga,Pusiga,-0.1248,11.0812,4,District Hospital,District Hospital,no
+Datoku Health Centre,Upper East,Talensi,Talensi,-0.82977,10.7077,6,Health Centre,Health Centre,no
+Duusi Health Centre,Upper East,Talensi,Talensi,-0.7012,10.7668,6,Health Centre,Health Centre,no
+Talensi District Hospital,Upper East,Talensi,Talensi,-0.79407,10.7141,4,District Hospital,District Hospital,yes
+Winkongo Health Centre,Upper East,Talensi,Talensi,-0.86556,10.7108,6,Health Centre,Health Centre,no
+Basyonde Health Centre,Upper East,Tempane,Tempane,-0.01454,10.9889,6,Health Centre,Health Centre,no
+Bugri Health Centre,Upper East,Tempane,Tempane,-0.13476,10.9694,4,District Hospital,District Hospital,no
+Kpikpira CHPS,Upper East,Tempane,Tempane,-0.08386,10.8061,7,Clinic,Clinic,no
+Presbyterian Health Centre - Woriyanga,Upper East,Tempane,Tempane,-0.05586,10.895,6,Health Centre,Health Centre,no
+Bussie Health Centre,Upper West,Daffiama Bussie Issa,Daffiama Bussie Issa,-2.50068,10.4907,4,District Hospital,District Hospital,no
+Daffiama Health Centre,Upper West,Daffiama Bussie Issa,Daffiama Bussie Issa,-2.56187,10.4238,6,Health Centre,Health Centre,no
+Fian Health Centre,Upper West,Daffiama Bussie Issa,Daffiama Bussie Issa,-2.46862,10.3862,6,Health Centre,Health Centre,no
+Issa Polyclinic,Upper West,Daffiama Bussie Issa,Daffiama Bussie Issa,-2.32807,10.3842,6,Health Centre,Health Centre,no
+Kojokperi Health Centre,Upper West,Daffiama Bussie Issa,Daffiama Bussie Issa,-2.23234,10.3605,6,Health Centre,Health Centre,no
+Hain Polyclinic,Upper West,Jirapa,Jirapa,-2.43668,10.6921,4,District Hospital,District Hospital,no
+Jirapa Urban Health Centre,Upper West,Jirapa,Jirapa,-2.6987,10.5402,6,Health Centre,Health Centre,no
+St. Joseph's Hospital,Upper West,Jirapa,Jirapa,-2.69925,10.5328,7,Clinic,Clinic,yes
+Tizza Health centre,Upper West,Jirapa,Jirapa,-2.71667,10.6,6,Health Centre,Health Centre,no
+Hamile Health Centre,Upper West,Lambussie-Karni,Lambussie-Karni,-2.75299,10.9931,6,Health Centre,Health Centre,no
+Lambussie Polyclinic,Upper West,Lambussie-Karni,Lambussie-Karni,-2.71506,10.8468,4,District Hospital,District Hospital,no
+Babile Polyclinic,Upper West,Lawra,Lawra,-2.8465,10.5242,4,District Hospital,District Hospital,no
+Lawra Hospital,Upper West,Lawra,Lawra,-2.88766,10.6432,5,Hospital,Hospital,yes
+St. Martin de Porres Clinic - Eremon,Upper West,Lawra,Lawra,-2.79286,10.6642,7,Clinic,Clinic,no
+Ahmadia (Nadowli) Hospital,Upper West,Nadowli-Kaleo,Nadowli-Kaleo,-2.54172,10.1697,5,Hospital,Hospital,no
+Charikpong Health Centre,Upper West,Nadowli-Kaleo,Nadowli-Kaleo,-2.78414,10.3572,6,Health Centre,Health Centre,no
+Jang Health Centre,Upper West,Nadowli-Kaleo,Nadowli-Kaleo,-2.45978,10.1974,6,Health Centre,Health Centre,no
+Kaleo Health Centre,Upper West,Nadowli-Kaleo,Nadowli-Kaleo,-2.54686,10.1714,6,Health Centre,Health Centre,no
+Kaleo Health Centre (Immaculate Conception),Upper West,Nadowli-Kaleo,Nadowli-Kaleo,-2.54682,10.1755,6,Health Centre,Health Centre,no
+Nadowli District Hospital,Upper West,Nadowli-Kaleo,Nadowli-Kaleo,-2.65847,10.3626,4,District Hospital,District Hospital,yes
+Takpo Health Centre,Upper West,Nadowli-Kaleo,Nadowli-Kaleo,-2.6503,10.2134,6,Health Centre,Health Centre,no
+Piiri Health Centre,Upper West,Nandom,Nandom,-2.80185,10.8043,6,Health Centre,Health Centre,no
+St. Theresa's Hospital - Nandom,Upper West,Nandom,Nandom,-2.7722,10.8387,5,Hospital,Hospital,yes
+Kulfuo Health Centre,Upper West,Sissala East,Sissala East,-1.93467,10.6112,6,Health Centre,Health Centre,no
+Nabulo Health Centre,Upper West,Sissala East,Sissala East,-1.79061,10.4835,6,Health Centre,Health Centre,no
+Tumu Hospital,Upper West,Sissala East,Sissala East,-1.98637,10.8774,4,District Hospital,District Hospital,yes
+Gwollu Health Centre,Upper West,Sissala West,Sissala West,-2.21171,10.9752,6,Health Centre,Health Centre,no
+Gwollu Hospital,Upper West,Sissala West,Sissala West,-2.22273,10.9823,4,District Hospital,District Hospital,yes
+Jeffisi Health Centre,Upper West,Sissala West,Sissala West,-2.26815,10.7701,6,Health Centre,Health Centre,no
+Funsi Health Centre,Upper West,Wa East,Wa East,-1.96868,10.2956,4,District Hospital,District Hospital,no
+Charia Health Centre,Upper West,Wa Municipal,Wa Municipal,-2.34146,10.0635,6,Health Centre,Health Centre,no
+Islamic Hospital,Upper West,Wa Municipal,Wa Municipal,-2.51439,10.0803,5,Hospital,Hospital,no
+Upper West Regional Hospital,Upper West,Wa Municipal,Wa Municipal,-2.49806,10.0558,3,Regional Hospital,Regional Hospital,yes
+Wa Municipal Hospital,Upper West,Wa Municipal,Wa Municipal,-2.49868,10.0581,5,Hospital,Hospital,yes
+Dorimon Health Centre,Upper West,Wa West,Wa West,-2.68508,10.0349,6,Health Centre,Health Centre,no
+Gurungu Health Centre,Upper West,Wa West,Wa West,-2.57117,9.68741,6,Health Centre,Health Centre,no
+Kulkpali Health Centre,Upper West,Wa West,Wa West,-2.69241,10.1061,6,Health Centre,Health Centre,no
+Lassia Tuolu Health Centre,Upper West,Wa West,Wa West,-2.60251,9.83749,6,Health Centre,Health Centre,no
+Poyentanga Health Centre,Upper West,Wa West,Wa West,-2.46372,9.8663,6,Health Centre,Health Centre,no
+Wa West District Hospital,Upper West,Wa West,Wa West,-2.6839,9.82637,4,District Hospital,District Hospital,yes
+Helekpe Health Centre,Volta,Adaklu,Adaklu,0.54476,6.28796,6,Health Centre,Health Centre,no
+Have Health Centre,Volta,Afadzato South,Afadzato South,0.3607,6.75781,6,Health Centre,Health Centre,no
+Logba Vuinta Health Centre,Volta,Afadzato South,Afadzato South,0.46091,6.92311,6,Health Centre,Health Centre,no
+Kpetoe Health Centre,Volta,Agotime Ziope,Agotime Ziope,0.700107,6.55038,6,Health Centre,Health Centre,no
+Ziope Health Centre,Volta,Agotime Ziope,Agotime Ziope,0.741863,6.41606,4,District Hospital,District Hospital,no
+Ave-dakpa Health Centre,Volta,Akatsi North,Akatsi North,0.860996,6.36454,6,Health Centre,Health Centre,no
+Akatsi District Hospital,Volta,Akatsi South,Akatsi South,0.80901,6.13877,4,District Hospital,District Hospital,yes
+Anloga Health Centre,Volta,Anloga,Anloga,0.88142,5.79182,4,District Hospital,District Hospital,no
+Tegbi Health Centre,Volta,Anloga,Anloga,0.971425,5.84112,6,Health Centre,Health Centre,no
+Adidome District Hospital,Volta,Central Tongu,Central Tongu,0.49812,6.07222,4,District Hospital,District Hospital,no
+Mafi-Kumase Health Centre,Volta,Central Tongu,Central Tongu,0.5713,6.27551,6,Health Centre,Health Centre,no
+Ho Municipal Hospital,Volta,Ho,Ho,0.46805,6.60926,4,District Hospital,District Hospital,yes
+Ho Polyclinic,Volta,Ho,Ho,0.49621,6.60743,7,Clinic,Clinic,no
+Ho Teaching Hospital,Volta,Ho,Ho,0.48454,6.60098,3,Regional Hospital,Regional Hospital,yes
+Abutia Agorve Health Centre,Volta,Ho West,Ho West,0.36484,6.48414,6,Health Centre,Health Centre,no
+Dzologbogame Health Centre,Volta,Ho West,Ho West,0.47673,6.77533,6,Health Centre,Health Centre,no
+Tsito Health Centre,Volta,Ho West,Ho West,0.30134,6.55093,6,Health Centre,Health Centre,no
+Hohoe Municipal Hospital,VOLTA,HOHOE MUNICIPAL,HOHOE,0.47194,7.1573,5,Hospital,Hospital,yes
+Volta Regional Hospital,Volta,HOHOE MUNICIPAL,Hohoe,0.48454,6.60098,5,Hospital,Hospital,no
+Keta Municipal Hospital,Volta,Keta,Keta,0.98164,5.88784,4,District Hospital,District Hospital,yes
+Sacred Heart (keta) Hospital,Volta,Keta,Keta,0.52067,6.03275,5,Hospital,Hospital,no
+St Anthony's (Dzodze) Hospital,Volta,Ketu North,Ketu North,0.9894,6.24103,4,District Hospital,District Hospital,yes
+Central Aflao Hospital,Volta,Ketu South,Ketu South,1.1691,6.11523,5,Hospital,Hospital,no
+Ketu South District Hospital,Volta,Ketu South,Ketu South,1.18017,6.11752,4,District Hospital,District Hospital,yes
+Kpando Health Centre,Volta,Kpando,Kpando,0.29016,6.99309,6,Health Centre,Health Centre,no
+Margret Marquart Catholic Hospital,Volta,Kpando,Kpando,0.30306,6.99982,4,District Hospital,District Hospital,yes
+St Patrick (kpando) Hospital,Volta,Kpando,Kpando,0.28696,6.99855,5,Hospital,Hospital,no
+Anfoega Catholic Hospital,Volta,North Dayi,North Dayi,0.2763,6.88026,4,District Hospital,District Hospital,yes
+Tsrukpe Health Centre,Volta,North Dayi,North Dayi,0.27726,6.79583,6,Health Centre,Health Centre,no
+Vakpo Health Centre,Volta,North Dayi,North Dayi,0.28251,6.85675,6,Health Centre,Health Centre,no
+Battor Catholic Hospital,Volta,North Tongu,North Tongu,0.40179,6.06826,4,District Hospital,District Hospital,yes
+Juapong Health Centre,Volta,North Tongu,North Tongu,0.196773,6.29679,6,Health Centre,Health Centre,no
+Peki Hospital,Volta,South Dayi,South Dayi,0.22599,6.53362,4,District Hospital,District Hospital,yes
+Richard Novarti Memorial Hospital - Sogakope,Volta,South Tongu,South Tongu,0.58854,6.00945,5,Hospital,Hospital,no
+Sogakope District Hospital,Volta,South Tongu,South Tongu,0.61525,6.00773,4,District Hospital,District Hospital,yes
+Agona Health Centre,Western,Ahanta West,Ahanta West,-1.96432,4.89003,6,Health Centre,Health Centre,no
+Apowa Health Centre,Western,Ahanta West,Ahanta West,-1.81205,4.88824,6,Health Centre,Health Centre,no
+Nana Hima Dekyi Hospital,Western,Ahanta West,Ahanta West,-1.94978,4.79799,4,District Hospital,District Hospital,yes
+2mrs Military Hospital,Western,Effia Kwesimintsim,Effia Kwesimintsim,-1.80568,4.91426,5,Hospital,Hospital,no
+Kwesimintim Hospital,Western,Effia Kwesimintsim,Effia Kwesimintsim,-1.78184,4.91288,4,District Hospital,District Hospital,yes
+New Crystal Hospital,Western,Effia Kwesimintsim,Effia Kwesimintsim,-1.74865,4.9035,5,Hospital,Hospital,no
+Sycamore Medical Centre,Western,Effia Kwesimintsim,Effia Kwesimintsim,-1.75245,4.88564,6,Health Centre,Health Centre,no
+Whindo Health Centre,Western,Effia Kwesimintsim,Effia Kwesimintsim,-1.81212,4.9339,6,Health Centre,Health Centre,no
+Aiyinase Health Centre,Western,Ellembelle,Ellembelle,-2.46504,5.04337,6,Health Centre,Health Centre,no
+Asasetre Health Centre,Western,Ellembelle,Ellembelle,-2.3479,5.0241,6,Health Centre,Health Centre,no
+Esiama Health Centre,Western,Ellembelle,Ellembelle,-2.35534,4.93562,6,Health Centre,Health Centre,no
+Nana Benie Clinic,Western,Ellembelle,Ellembelle,-2.47968,5.0492,7,Clinic,Clinic,no
+St Martin De Porres (Ellembelle) Hospital,Western,Ellembelle,Ellembelle,-2.46933,4.96499,4,District Hospital,District Hospital,yes
+Elubo Health Centre,Western,Jomoro,Jomoro,-2.77153,5.28678,6,Health Centre,Health Centre,no
+Half Assini Government Hospital,Western,Jomoro,Jomoro,-2.88965,5.05292,4,District Hospital,District Hospital,yes
+Tikobo No 1 Health Centre,Western,Jomoro,Jomoro,-2.6922,5.05361,6,Health Centre,Health Centre,no
+Manso Community Clinic,Western,Mpohor,Mpohor,-1.83299,5.07976,7,Clinic,Clinic,no
+Axim Government Hospital,Western,Nzema East,Nzema East,-2.2387,4.86668,4,District Hospital,District Hospital,yes
+Bamiankor Health Centre,Western,Nzema East,Nzema East,-2.16667,5.01667,6,Health Centre,Health Centre,no
+Aboso Health Centre,Western,Prestea-Huni Valley,Prestea-Huni Valley,-1.93333,5.36667,6,Health Centre,Health Centre,no
+Bogoso Health Centre,Western,Prestea-Huni Valley,Prestea-Huni Valley,-2.01971,5.56935,6,Health Centre,Health Centre,no
+Himan Health Centre,Western,Prestea-Huni Valley,Prestea-Huni Valley,-2.13672,5.45378,6,Health Centre,Health Centre,no
+Huni Valley Health Centre,Western,Prestea-Huni Valley,Prestea-Huni Valley,-1.91329,5.47217,6,Health Centre,Health Centre,no
+Huniso CHPS,Western,Prestea-Huni Valley,Prestea-Huni Valley,-2.06017,5.38227,7,Clinic,Clinic,no
+Prestea Government Hospital,Western,Prestea-Huni Valley,Prestea-Huni Valley,-2.13577,5.42679,4,District Hospital,District Hospital,yes
+Effia Nkwanta Regional Hospital,Western,Sekondi Takoradi Metropolis,Sekondi Takoradi Metropolis,-1.74544,4.923,3,Regional Hospital,Regional Hospital,yes
+Essikado Hospital,Western,Sekondi Takoradi Metropolis,Sekondi Takoradi Metropolis,-1.71486,4.94562,5,Hospital,Hospital,no
+Holychild  Hospital,Western,Sekondi Takoradi Metropolis,Sekondi Takoradi Metropolis,-1.7548,4.94061,6,Health Centre,Health Centre,no
+Nagel Memorial  SDA Hospital,Western,Sekondi Takoradi Metropolis,Sekondi Takoradi Metropolis,-1.76637,4.90174,5,Hospital,Hospital,no
+New Takoradi Health Center,Western,Sekondi Takoradi Metropolis,Sekondi Takoradi Metropolis,-1.74882,4.90336,6,Health Centre,Health Centre,no
+Takoradi Hospital,Western,Sekondi Takoradi Metropolis,Sekondi Takoradi Metropolis,-1.75246,4.88566,4,District Hospital,District Hospital,no
+Western Naval Command Medical Centre,Western,Sekondi Takoradi Metropolis,Sekondi Takoradi Metropolis,-1.70755,4.93658,7,Clinic,Clinic,no
+Shama Health Centre,Western,Shama,Shama,-1.63498,5.01188,6,Health Centre,Health Centre,no
+St Benedict Hospital,Western,Shama,Shama,-1.68233,4.98489,5,Hospital,Hospital,no
+Supomu Dunkwa Health Centre,Western,Shama,Shama,-1.63067,5.11244,6,Health Centre,Health Centre,no
+ABA Hospital,Western,Tarkwa Nsuaem,Tarkwa Nsuaem,-1.99114,5.32072,5,Hospital,Hospital,no
+Apinto Government Hospital,Western,Tarkwa Nsuaem,Tarkwa Nsuaem,-1.98638,5.30541,5,Hospital,Hospital,no
+Benso Health Centre,Western,Tarkwa Nsuaem,Tarkwa Nsuaem,-1.88988,5.16133,6,Health Centre,Health Centre,no
+Dompim Health Centre,Western,Tarkwa Nsuaem,Tarkwa Nsuaem,-2.07594,5.15593,6,Health Centre,Health Centre,no
+GMC Hospital,Western,Tarkwa Nsuaem,Tarkwa Nsuaem,-1.98207,5.28011,5,Hospital,Hospital,no
+Iduapriem Health Centre,Western,Tarkwa Nsuaem,Tarkwa Nsuaem,-2.0905,5.24676,6,Health Centre,Health Centre,no
+New Atuabo Community Clinic,Western,Tarkwa Nsuaem,Tarkwa Nsuaem,-1.97677,5.3228,7,Clinic,Clinic,no
+Nsuaem (Tarkwa Nsuayem) Health Centre,Western,Tarkwa Nsuaem,Tarkwa Nsuaem,-2.0289,5.00344,6,Health Centre,Health Centre,no
+Redeemer Hospital,Western,Tarkwa Nsuaem,Tarkwa Nsuaem,-1.99344,5.29351,5,Hospital,Hospital,no
+Simpa Health Centre,Western,Tarkwa Nsuaem,Tarkwa Nsuaem,-2.10835,5.11074,6,Health Centre,Health Centre,no
+Tarkwa Benso Health Centre,Western,Tarkwa Nsuaem,Tarkwa Nsuaem,-1.95577,5.2892,6,Health Centre,Health Centre,no
+Tarkwa Municipal Hospital,Western,Tarkwa Nsuaem,Tarkwa Nsuaem,-1.9863,5.30567,4,District Hospital,District Hospital,yes
+Tebrebe Community Clinic,Western,Tarkwa Nsuaem,Tarkwa Nsuaem,-2.02832,5.26784,7,Clinic,Clinic,no
+Adjakaa Manso Health Centre,Western,Wassa Amenfi Central,Wassa Amenfi Central,-2.28547,6.03356,6,Health Centre,Health Centre,no
+Agona (Wassa Amenfi Central) Health Centre,Western,Wassa Amenfi Central,Wassa Amenfi Central,-2.32082,5.94995,6,Health Centre,Health Centre,no
+Manso Amenfi Health Centre,Western,Wassa Amenfi Central,Wassa Amenfi Central,-2.25837,5.63233,6,Health Centre,Health Centre,no
+Afransie Health Centre,Western,Wassa Amenfi East,Wassa Amenfi East,-2.12501,5.9133,6,Health Centre,Health Centre,no
+El-shiva Clinic,Western,Wassa Amenfi East,Wassa Amenfi East,-2.10223,5.63924,7,Clinic,Clinic,no
+Holy Angels Clinic,Western,Wassa Amenfi East,Wassa Amenfi East,-2.10223,5.63924,7,Clinic,Clinic,no
+Mampong (WAE) Health Centre,Western,Wassa Amenfi East,Wassa Amenfi East,-2.14759,6.03364,6,Health Centre,Health Centre,no
+Oppon Valley Health Centre,Western,Wassa Amenfi East,Wassa Amenfi East,-1.84431,5.69744,6,Health Centre,Health Centre,no
+Saa Health Centre,Western,Wassa Amenfi East,Wassa Amenfi East,-2.01548,5.91928,6,Health Centre,Health Centre,no
+Wassa Akropong Govt Hospital,Western,Wassa Amenfi East,Wassa Amenfi East,-2.0847,5.78299,4,District Hospital,District Hospital,yes
+Father Thomas Alan Rooney Memorial Hospital,Western,Wassa Amenfi West,Wassa Amenfi West,-2.43165,5.80186,4,District Hospital,District Hospital,yes
+Samartex Hospital,Western,Wassa Amenfi West,Wassa Amenfi West,-2.56414,5.61606,5,Hospital,Hospital,no
+Ahmadiyya Mission Hospital,Western,Wassa East,Wassa East,-1.65779,5.13015,4,District Hospital,District Hospital,no
+Akutuase Community Clinic,Western,Wassa East,Wassa East,-1.48642,5.27415,7,Clinic,Clinic,no
+Akyempim Health Centre,Western,Wassa East,Wassa East,-1.72553,5.48632,6,Health Centre,Health Centre,no
+Ateiku Health Centre,Western,Wassa East,Wassa East,-1.68961,5.57277,6,Health Centre,Health Centre,no
+Atobiase Community Clinic,Western,Wassa East,Wassa East,-1.55731,5.35319,7,Clinic,Clinic,no
+Christina Adcock and Son's Christian Hospital,Western,Wassa East,Wassa East,-1.69124,5.56278,5,Hospital,Hospital,no
+Daboase Health Centre,Western,Wassa East,Wassa East,-1.6561,5.1339,6,Health Centre,Health Centre,no
+Dompim Community Clinic,Western,Wassa East,Wassa East,-1.6753,5.1059,7,Clinic,Clinic,no
+Essaman (Sekyere Krobo) CHPS,Western,Wassa East,Wassa East,-1.60815,5.23472,7,Clinic,Clinic,no
+Nsadweso CHPS,Western,Wassa East,Wassa East,-1.71673,5.45487,7,Clinic,Clinic,no
+Boinso Health Centre,Western North,Aowin,Aowin,-2.72461,5.56173,6,Health Centre,Health Centre,no
+Enchi Government Hospital,Western North,Aowin,Aowin,-2.81931,5.78194,4,District Hospital,District Hospital,yes
+Kaase  Health Centre,Western North,Bia East,Bia East,-3.15232,6.85936,4,District Hospital,District Hospital,no
+Angela Memorial Catholic Clinic - Yawmatwa,Western North,Bia West,Bia West,-3.18358,6.76378,7,Clinic,Clinic,no
+Essam gov. Hospital,Western North,Bia West,Bia West,-3.10494,6.67188,4,District Hospital,District Hospital,yes
+Anhwiaso (bibiani Anhwiaso Bekwai) Health Centre,Western North,Bibiani-Anhwiaso-Bekwai,Bibiani-Anhwiaso-Bekwai,-2.25592,6.33124,6,Health Centre,Health Centre,no
+Bibiani District Hospital,Western North,Bibiani-Anhwiaso-Bekwai,Bibiani-Anhwiaso-Bekwai,-2.32238,6.45658,4,District Hospital,District Hospital,yes
+Gbc Awaso Hospital,Western North,Bibiani-Anhwiaso-Bekwai,Bibiani-Anhwiaso-Bekwai,-2.28031,6.25686,5,Hospital,Hospital,no
+Sefwi Bekwai Health Centre,Western North,Bibiani-Anhwiaso-Bekwai,Bibiani-Anhwiaso-Bekwai,-2.32599,6.18753,6,Health Centre,Health Centre,no
+Kwasikrom (Bodi) Health Center,Western North,Bodi,Bodi,-2.95651,6.18984,4,District Hospital,District Hospital,no
+Bonsu Nkwanta (Juaboso) Health Centre,Western North,Juaboso,Juaboso,-3.01765,6.32004,6,Health Centre,Health Centre,no
+Juaboso Government Hospital,Western North,Juaboso,Juaboso,-2.82972,6.33418,4,District Hospital,District Hospital,yes
+Akontombra Health Center,Western North,Sefwi Akontombra,Sefwi Akontombra,-2.86617,6.05048,4,District Hospital,District Hospital,no
+St John Of God (sefwi Wiawso) Hospital,Western North,Sefwi-Wiawso,Sefwi-Wiawso,-2.65872,6.3936,5,Hospital,Hospital,no
+Wiawso Govt Hospital,Western North,Sefwi-Wiawso,Sefwi-Wiawso,-2.49423,6.2062,3,Regional Hospital,Regional Hospital,yes
+Dadieso District Hospital,Western North,Suaman,Suaman,-3.03281,6.11772,4,District Hospital,District Hospital,yes
+Maternal and Child Health Hospital,Ashanti,Kumasi,Kumasi,-1.628859,6.691857,5,Hospital,Hospital,no
+St. Matthews Hospital- Ampenkro,Bono,Dormaa East,Dormaa East,-2.76102,7.26731,5,Hospital,Hospital,no
+Sunyani SDA Hospital,Bono,Sunyani Municipal,Sunyani Municipal,-2.3435,7.34522,5,Hospital,Hospital,no
+Asuofua Polyclinic,Ashanti,Atwima Nwabiagya North,Atwima Nwabiagya North,-1.66501,6.76913,5,Hospital,Hospital,no
+Afrancho Polyclinic,Ashanti,Afigya Kwabre South,Afigya Kwabre South,-1.64419,6.77792,5,Hospital,Hospital,no
+Fountain Care Hospital,Bono,Jaman North,Jaman North,-2.69619,7.954363,5,Hospital,Hospital,no
+Living Waters Hospital,Ashanti,Ejisu,Ejisu,-1.4872,6.7216,5,Hospital,Hospital,no
+James Town Maternity Home,Greater Accra,Accra Metropolis,Accra Metro,-0.21591,5.54065,6,Health Centre,Health Centre,no
+Drobo Health Centre,Bono,Jaman South,Jaman South,-2.7876,7.59354,6,Health Centre,Health Centre,no
+Jemima Crentsil Hospital,Western,Effia-Kwesimintsim,Effia-Kwesimintsim,-1.78616,4.92127,5,Hospital,Hospital,no
+La Polyclinic,Greater Accra,La-Dade-Kotopon,La-Dade-Kotopon,-0.18107,5.56825,5,Hospital,Hospital,no
+Sege Polyclinic,Greater Accra,Ada West,Ada West,0.36137,5.87531,4,District Hospital,District Hospital,no
+Techimantia Government Hospital,Ahafo,Tano South,Tano South,-2.028688,7.181361,5,Hospital,Hospital,no
+Mamponteng Hospital,Ashanti,Kwabre East,Kwabre East,-1.47695,6.83295,5,Hospital,Hospital,no
+Foase Health Centre,Ashanti,Atwima Kwanwoma,Atwima Kwanwoma,-1.75124,6.63751,6,Health Centre,Health Centre,no
+Rachel Health Centre,Bono,Dormaa East,Dormaa East,-2.71501,7.26735,6,Health Centre,Health Centre,no
+Badu Health Center,Bono,Tain,Tain,-2.23032,7.70032,6,Health Centre,Health Centre,no
+Amoaya Health Centre,Western North,Bodi,Bodi,-2.93999,6.23541,6,Health Centre,Health Centre,no
+Pope John Paul II Medical Centre,Ashanti,Sekyere South,Sekyere South,-1.47818,6.96507,6,Health Centre,Health Centre,no
+Arms Hospital,Bono East,Techiman Municipal,Techiman Municipal,-1.938141,7.591125,5,Hospital,Hospital,no
+Valley View Adventist Hospital- Techiman,Bono East,Techiman Municipal,Techiman Municipal,-1.957963,7.576303,5,Hospital,Hospital,no
+Bomso Clinic,Ashanti,Oforikrom,Oforikrom,-1.57907,6.68468,7,Clinic,Clinic,no
+Abesim Health Center,Bono,Sunyani Municipal,Sunyani Municipal,-2.27099,7.2885,6,Health Centre,Health Centre,no
+Mount Camel Hospital and Fertility Center,Greater Accra,Ningo Prampram,Ningo Prampram,0.03581,5.74691,6,Health Centre,Health Centre,no
+Dapooretindongo CHPS,Upper East,Bolgatanga Municipal,Bolgatanga Municipal,-0.84339,10.81399,7,Clinic,Clinic,no
+Gambibgo Health Centre,Upper East,Bolga East,Bolgatanga East,-0.84047,10.75403,6,Health Centre,Health Centre,no
+Adabokrom Health Centre,Western North,Bia East,Bia East,-3.02036,6.81816,6,Health Centre,Health Centre,no
+Asawinso SDA Hospital,Western North,Sefwi-Wiawso,Sefwi-Wiawso,-2.70668,6.42252,5,Hospital,Hospital,no
+Brosankro Health Centre,Ahafo,Tano South,Tano South,-2.127734,7.033675,6,Health Centre,Health Centre,no
+Kotoso RH Clinic,Eastern,Kwahu East,Kwahu East,-0.6399,6.73542,7,Clinic,Clinic,no
+Dachio CHPS,Upper East,Bolga East,Bolgatanga East,-0.79678,10.81942,7,Clinic,Clinic,no
+Vineyard Hospital,Upper East,Bawku Municipal,Bawku Municipal,-0.25913,11.06079,5,Hospital,Hospital,no
+Manso Nkwanta Government Polyclinic,Ashanti,Amansie West,Amansie West,-1.87634,6.46638,5,Hospital,Hospital,no
+St. Peter's Catholic Hospital,Ashanti,Amansie Central,Amansie Central,-1.70141,6.64748,5,Hospital,Hospital,no
+Subinso Health Center,Bono,Wenchi,Wenchi,-2.05394,7.94245,6,Health Centre,Health Centre,no
+Salvation Army Hospital,Central,Agona East,Agona East,-0.72596,5.63101,5,Hospital,Hospital,no
+Akramaman CHPS,Greater Accra,Ga West,Ga West,-0.3676,5.7012,7,Clinic,Clinic,no
+Osudoku Health Centre,Greater Accra,Shai-Osudoku,Shai-Osudoku,0.19468,6.07519,6,Health Centre,Health Centre,no
+Paboase Health Centre,Western North,Sefwi-Wiawso,Sefwi-Wiawso,-2.39035,6.24841,6,Health Centre,Health Centre,no
+Kwapong Health Center,Ahafo,Asunafo South,Asunafo South,-2.47506,6.62266,6,Health Centre,Health Centre,no
+Obuasi SDA Hospital,Ashanti,Obuasi East,Obuasi East,-1.639,6.198,5,Hospital,Hospital,no
+Tontokrom Health Centre,Ashanti,Amansie South,Amansie South,-1.99558,6.34935,6,Health Centre,Health Centre,no
+Coronation Health Centre,Upper East,Bolgatanga Municipal,Bolgatanga Municipal,-0.85006,10.7884,6,Health Centre,Health Centre,no
+VRA Hospital,Western,Shama,Shama,-1.65516,4.97429,4,District Hospital,District Hospital,no
+Yamfo (Tano North) Health Centre,Ahafo,Tano North,Tano North,-2.24111,7.2259,6,Health Centre,Health Centre,no
+St. Benito Menni Hospital,Ashanti,Adansi North,Adansi North,-1.532264,6.311485,5,Hospital,Hospital,no
+A&A Royal Medical Centre,Bono,Sunyani Municipal,Sunyani Municipal,-2.297999,7.304979,6,Health Centre,Health Centre,no
+Atronie Health Centre,Bono,Sunyani Municipal,Sunyani Municipal,-2.40491,7.1537,6,Health Centre,Health Centre,no
+Duadaso Health Centre,Bono,Jaman North,Jaman North,-2.634128,7.901686,6,Health Centre,Health Centre,no
+Jinjini Health Centre,Bono,Berekum West,Berekum West,-2.64642,7.44656,6,Health Centre,Health Centre,no
+Owusu Memorial (sunyani) Hospital,Bono,Sunyani Municipal,Sunyani Municipal,-2.33267,7.32669,5,Hospital,Hospital,no
+Zezera Health Centre,Bono,Jaman South,Jaman South,-2.866667,7.733333,6,Health Centre,Health Centre,no
+Hemang (fanteakwa) CHPS,Eastern,Fanteakwa South,Fanteakwa South,-0.44652,6.34454,7,Clinic,Clinic,no
+Akumadan Health Centre,Ashanti,Offinso North,Offinso North,-1.96072,7.40581,6,Health Centre,Health Centre,no
+St. Peter's Health Centre- Ntobroso,Ashanti,Atwima Mponua,Atwima Mponua,-2.04218,6.53511,6,Health Centre,Health Centre,no
+3mrs Sunyani,Bono,Sunyani Municipal,Sunyani Municipal,-2.2946,7.34184,5,Hospital,Hospital,no
+Dumasua CHPS,Bono,Sunyani West,Sunyani West,-2.367647,7.3846,7,Clinic,Clinic,no
+Kyeremasu Presby Clinic,Bono,Dormaa East,Dormaa East,-2.761313,7.26315,7,Clinic,Clinic,no
+Hope Christian Hospital,Central,Gomoa East,Gomoa East,-0.47718,5.43123,6,Health Centre,Health Centre,no
+Katamanso Health Centre,Greater Accra,Kpone-Katamanso,Kpone-Katamanso,-0.08379,5.74971,6,Health Centre,Health Centre,no
+New Ningo CHPS,Greater Accra,Ningo Prampram,Ningo Prampram,0.16399,5.73679,7,Clinic,Clinic,no
+Likpe Bakua Polyclinic,Oti,HOHOE MUNICIPAL,Guan,0.58225,7.16605,5,Hospital,Hospital,no
+Binaba Health Centre,Upper East,Bawku West,Bawku West,-0.48579,10.76165,6,Health Centre,Health Centre,no
+Bolgatanga Health Centre,Upper East,Bolgatanga Municipal,Bolgatanga Municipal,-0.85375,10.7791,6,Health Centre,Health Centre,no
+Doninga Health Centre,Upper East,Builsa South,Builsa South,-1.42715,10.62037,6,Health Centre,Health Centre,no
+Nyariga Health Centre,Upper East,Bolgatanga Municipal,Bolgatanga Municipal,-0.8823,10.84763,6,Health Centre,Health Centre,no
+Sakote CHPS,Upper East,Nabdam,Nabdam,-0.637266291,10.7564635,7,Clinic,Clinic,no
+Bulenga Health Centre,Upper West,Wa East,Wa East,-2.20738,9.93698,6,Health Centre,Health Centre,no
+Abura Clinic,Western,Ahanta West,Ahanta West,-2.0604,4.91272,7,Clinic,Clinic,no
+Asankran Breman Health Centre,Western,Wassa Amenfi West,Wassa Amenfi West,-2.44929,5.84883,6,Health Centre,Health Centre,no
+Asawinso Health Centre,Western North,Sefwi-Wiawso,Sefwi-Wiawso,-2.814444444,6.565555556,6,Health Centre,Health Centre,no
+Abore Health Centre,Ashanti,Amansie West,Amansie West,-1.97722,6.44735,7,Clinic,Clinic,no
+Juansa Government Polyclinic,Ashanti,Asante Akim North,Asante Akim North,-1.12734,6.72336,5,Hospital,Hospital,no
+Debibi Health Center,Bono,Tain,Tain,-2.53924,7.8959,6,Health Centre,Health Centre,no
+Sabiye Health Center,Bono,Banda,Banda,-2.35153,8.07308,6,Health Centre,Health Centre,no
+Bukunor Health Centre,Eastern,Yilo-Krobo,Yilo-Krobo,-0.10636,6.2296,6,Health Centre,Health Centre,no
+Gowrie CHPS,Upper East,Bongo,Bongo,-0.85,10.883333,7,Clinic,Clinic,no
+Navrongo Health Centre,Upper East,Kasena Nankana East,Kasena-Nankana,-1.09025,10.885787,6,Health Centre,Health Centre,no
+Afife Health Centre,Volta,Ketu North,Ketu North,0.91667,6.06667,6,Health Centre,Health Centre,no
+Ve Golokwati Health Centre,Volta,Afadzato South,Afadjato South,0.433333,7.0006,6,Health Centre,Health Centre,no
+Gambia Health Centre,Ahafo,Asutifi North,Asutifi North,-2.63569,7.03774,6,Health Centre,Health Centre,no
+Ama Tettehkrom CHPS,Ashanti,Ahafo Ano North,Ahafo Ano North,-2.09765,6.95901,7,Clinic,Clinic,no
+Namasa CHPS,Bono,Tain,Tain,-2.481594,7.901573,7,Clinic,Clinic,no
+Opoku Clinic,Bono,Sunyani Municipal,Sunyani Municipal,-2.32856,7.3439,7,Clinic,Clinic,no
+Bonikope Health Centre,Greater Accra,Ada West,Ada West,0.40386,5.84672,6,Health Centre,Health Centre,no
+Dawa CHPS,Greater Accra,Ningo Prampram,Ningo Prampram,0.2918,5.8659,7,Clinic,Clinic,no
+Baika Health Centre,Oti,Jasikan,Jasikan,0.53146,7.23509,6,Health Centre,Health Centre,no
+Apuwongo CHPS,Upper East,Bongo,Bongo,-0.81035,10.90462,7,Clinic,Clinic,no
+Kanjarga Health Centre,Upper East,Builsa South,Builsa South,-1.364422,10.501079,6,Health Centre,Health Centre,no
+Shia Health Centre,Upper East,Talensi,Talensi,-0.8603,10.67644,6,Health Centre,Health Centre,no
+Kpedze Polyclinic,Volta,Ho West,Ho West,0.50409,6.8463,5,Hospital,Hospital,no
+Shia Health Centre,Upper East,Talensi,Talensi,-0.8603,10.67644,6,Health Centre,Health Centre,no
+St Paul (Akatsi) Hospital,Volta,Akatsi South,Akatsi South,0.80256,6.12305,5,Hospital,Hospital,no
+New Town Health Centre,Western,Jomoro,Jomoro,-3.09883,5.09177,6,Health Centre,Health Centre,no
+Westside Medical Centre,Western,Effia-Kwesimintsim,Effia-Kwesimintsim,-1.785155,4.898322,7,Clinic,Clinic,no
+Banhart Hospital,Ahafo,Asutifi North,Asutifi North,-2.376993,6.966575,5,Hospital,Hospital,no
+Adansi North District Hospital,Ashanti,Adansi North,Adansi North,-1.51127,6.28002,4,District Hospital,District Hospital,no
+Edubia Health Centre,Ashanti,Amansie South,Amansie South,-1.93466,6.78141,6,Health Centre,Health Centre,no
+Manfo Health Centre,Ashanti,Ahafo Ano North,Ahafo Ano North,-2.23044,6.94531,6,Health Centre,Health Centre,no
+Wiamoase SDA Hospital,Ashanti,Sekyere South,Sekyere South,-1.50958,7.05323,5,Hospital,Hospital,no
+Alice Maternity Clinic,Bono East,Techiman Municipal,Techiman Municipal,-1.94684,7.59064,7,Clinic,Clinic,no
+Patmos Medical Centre,Bono East,Nkoranza South,Nkoranza South,-1.698,7.5621167,6,Health Centre,Health Centre,no
+Adamorobe CHPS,Eastern,Akwapem South,Akwapim South,-0.14143,5.82969,7,Clinic,Clinic,no
+Bethel (yilo Krobo) Maternity Home,Eastern,Yilo-Krobo,Yilo-Krobo,-0.22317,6.24947,7,Clinic,Clinic,no
+Holy Spirit Polyclinic,Eastern,Kwahu Afram Plains South,Kwahu Afram Plains South,-0.48886,7.03143,5,Hospital,Hospital,no
+Sempoa CHPS,Eastern,Kwahu East,Kwahu East,-0.75369,6.86492,7,Clinic,Clinic,no
+Agomeda Health Centre,Greater Accra,Shai-Osudoku,Shai-Osudoku,0.00994,5.98039,6,Health Centre,Health Centre,no
+Ayetepa CHPS,Greater Accra,Ningo Prampram,Ningo Prampram,0.2667,5.7785,7,Clinic,Clinic,no
+St Andrews Catholic Hospital,Greater Accra,Shai-Osudoku,Shai-Osudoku,0.01798,5.92528,5,Hospital,Hospital,no
+Sang Health Centre,Northern,Mion,Mion,-0.27738,9.41863,6,Health Centre,Health Centre,no
+Brewaniase Health Centre,Oti,Nkwanta South,Nkwanta South,0.556512,8.005797,6,Health Centre,Health Centre,no
+New Ayoma Health Centre,Oti,Jasikan,Jasikan,0.58385,7.28418,6,Health Centre,Health Centre,no
+Waya Health Centre,Volta,Adaklu,Adaklu,0.62397,6.44802,6,Health Centre,Health Centre,no
+Wegbe Kpalime Health Centre,Volta,South Dayi,South Dayi,0.3431,6.65418,6,Health Centre,Health Centre,no
+Kwaku Boah CHPS,Western,Wassa Amenfi Central,Wassa Amenfi Central,-2.39798,6.02745,7,Clinic,Clinic,no
+Princess Health Centre,Western,Ahanta West,Ahanta West,-2.13338,4.79618,6,Health Centre,Health Centre,no
+Datano CHPS,Ashanti,Amansie South,Amansie South,-1.97466,6.2319,7,Clinic,Clinic,no
+Family Care Hospital,Ashanti,Afigya Kwabre South,Afigya Kwabre South,-1.63835,6.81087,5,Hospital,Hospital,no
+Namong SDA Hospital,Ashanti,Offinso,Offinso,-1.68197,6.97062,4,District Hospital,District Hospital,no
+Anum Boso Salvation Army Clinic,Eastern,Asuogyaman,Asuogyaman,0.15717,6.49091,7,Clinic,Clinic,no
+Oterkpolu Health Centre,Eastern,Yilo-Krobo,Yilo-Krobo,-0.12433,6.20316,6,Health Centre,Health Centre,no
+Oyoko (New Juabeng) Health Centre,Eastern,New Juaben North,New Juaben North,-0.29131,6.13825,6,Health Centre,Health Centre,no
+Presbyterian Health Centre - Abetifi,Eastern,Kwahu East,Kwahu East,-0.74484,6.67727,6,Health Centre,Health Centre,no
+Kofi-Kope CHPS,Greater Accra,Ningo Prampram,Ningo Prampram,0.0006,5.7991,7,Clinic,Clinic,no
+Mobole CHPS,Greater Accra,Ningo Prampram,Ningo Prampram,-0.0174,5.8192,7,Clinic,Clinic,no
+Nyaho Medical Centre,Greater Accra,Ayawaso West,Ayawaso West,-0.185144,5.614869,7,Clinic,Clinic,no
+Pantang RCH Clinic,Greater Accra,La-Nkwantanang-Madina,La-Nkwantanang-Madina,-0.18735,5.71481,7,Clinic,Clinic,no
+SDA Hospital,Greater Accra,Weija-Gbawe,Weija-Gbawe,-0.34657,5.55721,5,Hospital,Hospital,no
+Nakpale Health Centre,Northern,Zabzugu,Zabzugu,0.330763,8.970592,6,Health Centre,Health Centre,no
+Salaga Health Centre,Savannah,East Gonja,East Gonja,-0.51912,8.54888,6,Health Centre,Health Centre,no
+Bazua Health Centre,Upper East,Binduri,Binduri,-0.35676,11.00129,6,Health Centre,Health Centre,no
+Sokabisi Health Centre,Upper East,Bolgatanga Municipal,Bolgatanga Municipal,-0.88832,10.79015,6,Health Centre,Health Centre,no
+St. Theresah Health Centre,Upper East,Bongo,Bongo,-0.9,10.916667,6,Health Centre,Health Centre,no
+Wagliga CHPS,Upper East,Bongo,Bongo,-0.80565,10.91685,7,Clinic,Clinic,no
+Yikene CHPS,Upper East,Bolgatanga Municipal,Bolgatanga Municipal,-0.90159,10.80429,7,Clinic,Clinic,no
+Zuarungu-moshie Health Centre,Upper East,Bolga East,Bolgatanga East,-0.807867,10.79896,6,Health Centre,Health Centre,no
+Wogu CHPS,Upper West,Daffiama-Bussie-Issa,Daffiama-Bussie-Issa,-2.38796,10.4154,7,Clinic,Clinic,no
+Ahunda Health Centre,Volta,Adaklu,Adaklu,0.48776,6.49026,6,Health Centre,Health Centre,no
+Kpotame Health Centre,Volta,South Tongu,South Tongu,0.52564,5.97668,6,Health Centre,Health Centre,no
+Mater Ecclesiae Hospital,Volta,Ho,Ho,0.40798,6.56749,5,Hospital,Hospital,no
+Akyekyere CHPS,Western,Wassa Amenfi Central,Wassa Amenfi Central,-2.32747,5.70846,7,Clinic,Clinic,no
+Beposo Health Centre,Ashanti,Sekyere Central,Sekyere Central,-1.35503,6.98526,6,Health Centre,Health Centre,no
+Dzolokpuita Health Centre,Volta,Ho West,Ho West,0.44485,6.7847,6,Health Centre,Health Centre,no
+Koraso Health Center,Bono,Berekum West,Berekum West,-2.626953,7.482513,6,Health Centre,Health Centre,no
+Sappor CHPS,Eastern,Asuogyaman,Asuogyaman,0.02151,6.25038,7,Clinic,Clinic,no
+Zono CHPS,Upper East,Bolga East,Bolgatanga East,-0.80638,10.79537,7,Clinic,Clinic,no
+New Winneba CHPS,Central,Effutu Municipal,Efutu,-0.65638,5.41109,7,Clinic,Clinic,no
+Ehiamankyene (fanteakwa) CHPS,Eastern,Fanteakwa South,Fanteakwa South,-0.32031,6.32685,7,Clinic,Clinic,no
+Nchiraa Health Center,Bono,Wenchi,Wenchi,-1.98138,7.89519,6,Health Centre,Health Centre,no
+Juabo CHPS,Western,Wassa Amenfi Central,Wassa Amenfi Central,-2.21435,6.09335,7,Clinic,Clinic,no

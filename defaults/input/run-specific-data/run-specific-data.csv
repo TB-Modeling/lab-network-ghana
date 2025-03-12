@@ -1,0 +1,19 @@
+Year-values,starting.year,no.years.in.run,split.scenario.year,,,,,,,,,
+Year,2019,4,2,,,,,,,,,
+diagnosis-tiers,Tier1,Tier2,Tier3,Tier4,Tier5,Tier6,Tier7,Tier8,Tier9,Tier10,,
+diagnosis,0,0,1,1,1,1,1,1,1,1,,
+testing-tiers,Disease,Test name,Tier1,Tier2,Tier3,Tier4,Tier5,Tier6,Tier7,Tier8,Tier9,Tier10
+testing,TB,Xpert,1,1,1,0,0,0,0,0,0,0
+testing,TB,smear,0,0,0,0,0,0,0,0,0,0
+testing,HIV,PCR,1,1,1,0,0,0,0,0,0,0
+testing,HIV,Xpert,1,1,1,0,0,0,0,0,0,0
+testing,HCV,Xpert,1,1,1,0,0,0,0,0,0,0
+testing,Yellow Fever,Xpert,1,1,1,1,1,1,0,0,0,0
+testing,Meningitis,PCR,1,1,1,0,0,0,0,0,0,0
+testing,Measles,culture,1,1,1,1,1,0,0,0,0,0
+seed values,1=random,,,,,,,,,,,
+Seed,1,,,,,,,,,,,
+Diseases,no.of.diseases,Disease.name,,,,,,,,,,
+DiseaseList,1,HIV,TB,HCV,Yellow Fever,Measles,Meningitis,Disease1,Disease2,,,
+Transmission.Disease,disease,threshold.value(density/10000 * probTransmission * no. timesteps),,,,,,,,,,
+TransList,TB,0.05,,,,,,,,,,

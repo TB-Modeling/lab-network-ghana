@@ -1,0 +1,454 @@
+,Name,no. of diseases,disease,Batch wait time for sample send out,Return time for sample results,No. of tests,test1 name,Testing test1,Priority 1,no. of machines1,max reagents per cycle1,timestep in reagent cycle1,test2 name,testing test2,Priority 2,no. of Machines,max reagents per cycle2,timestep in reagent cycle2,,,District
+1,Baptist Medical Centre District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,EAST MAMPRUSI
+2,Bawku Presby Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,BAWKU MUNICIPAL
+3,Bimbilla  District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NANUMBA NORTH
+4,Binde  Rural  Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BUNKPURUGU NAKPANDURI
+5,Bongo District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BONGO
+6,Gushegu  District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GUSHEGU
+7,MIDWIFERY TRAINING SCH.BOLGA,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BOLGATANGA MUNICIPAL
+8,MILITARY HOSPITAL  (6MRS),1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SAGNERIGU
+9,NAVRONGO CHNTS,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KASENA NANKANA EAST
+10,NTC BOLGA,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BOLGATANGA MUNICIPAL
+11,QUALITY MED. CENTER,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BAWKU MUNICIPAL
+12,RURAL HELP INTEGRATED MEDICAL CENTR,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BOLGATANGA MUNICIPAL
+13,Saboba Medical Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SABOBA
+14,Sandema District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,BUILSA NORTH
+15,Savelugu  Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SAVELUGU
+16,Tamale Central  Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,EAST GONJA MUNICIPAL
+17,TANIA SPECIALIST HOSPITAL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SAGNERIGU
+18,Walewale  District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,WEST MAMPRUSI MUNICIPAL
+19,War Memorial District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,KASENA NANKANA EAST
+20,Tamale West District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TAMALE METROPOLITAN
+21,Yendi District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,YENDI MUNICIPAL
+22,Zabzugu Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ZABZUGU
+23,Zebilla  District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,BAWKU WEST
+24,Abura Dunkwa District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,ABURA-ASEBU-KWAMANKESE
+25,Ajumako District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,AJUMAKO-ENYAN-ESSIAM
+26,Ankaful Lep/Gen Hosp,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KOMENDA-EDINA-EGUAFO-ABIREM MUNICIPAL
+27,Apam Catholic Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GOMOA CENTRAL
+28,St. Francis Xavier District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,ASSIN CENTRAL MUNICIPAL
+29,BAIDEN GARTEY HOSP,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,CAPE COAST METROPOLITAN
+30,Cape Coast Metropolitan Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,CAPE COAST METROPOLITAN
+31,Saltpond Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,MFANTSEMAN MUNICIPAL
+32,Winneba Government District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,EFFUTU MUNICIPAL
+33,Otoo Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AGONA WEST MUNICIPAL
+34,Our Lady of Grace Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,ASIKUMA-ODOBEN-BRAKWA
+35,Agona Swedru Govermnt District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AGONA WEST MUNICIPAL
+36,Praso District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TWIFO ATTI-MORKWA
+37,University of Cape Coast Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,CAPE COAST METROPOLITAN
+38,2BN. MILITARY HOSPITAL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,EFFIA KWESIMINTSIM MUNICIPAL
+39,A.B.A. HOSPITAL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TARKWA NSUAEM
+40,AHMADIYYA  MUSLIM  HOSPITAL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,WASSA EAST
+41,Axim Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,NZEMA EAST
+42,COMMUNITY H.NURSING TRN.SCHOOL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ELLEMBELLE
+43,Enchi Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,AOWIN
+44,Essikadu Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEKONDI TAKORADI METROPOLIS
+45,G.M.C.HOSPITAL - NSUTA,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TARKWA NSUAEM
+46,GHAPOHA HOSPITAL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEKONDI TAKORADI METROPOLIS
+47,Half Assini Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,JOMORO
+48,Nana Hima-Dekyi District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AHANTA WEST MUNICIPAL
+49,National Cold Room,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ELLEMBELLE
+50,Old Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEKONDI TAKORADI METROPOLIS
+51,Prestea Government Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,PRESTEA/HUNI VALLEY
+52,QUI - WAL CLINIC,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,EFFIA KWESIMINTSIM MUNICIPAL
+53,RABONI CHRISTIAN HOSPITAL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TARKWA NSUAEM
+54,SAMARTEX HOSPITAL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,WASSA AMENFI WEST
+55,Asankragwa Catholic Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,WASSA AMENFI WEST
+56,Eikwe Catholic Hospital,1,TB,2,7,2,Xpert,0,1,0,4480,28,smear,1,2,1,672,28,,,ELLEMBELLE
+57,V.R.A. HOSPITAL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SHAMA
+58,Wassa Akropong Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,WASSA AMENFI EAST
+59,37 Military Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,AYAWASO EAST MUNICIPAL
+60,Achimota Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,OKAIKWEI NORTH MUNICIPAL
+61,Adabraka Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KORLE KLOTTEY MUNICIPAL
+62,Afenyo Memorial Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASHAIMAN MUNICIPAL
+63,Akim Oda District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,BIRIM CENTRAL MUNICIPAL
+64,Akuse Government Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,LOWER MANYA KROBO
+65,Nsawam District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,NSAWAM ADOAGYIRE MUNICIPAL
+66,Akwapim South Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NSAWAM ADOAGYIRE MUNICIPAL
+67,Amoah Memorial Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GA CENTRAL MUNICIPAL
+68,Asamankese Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,WEST AKIM MUNICIPAL
+69,Asare Odei Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AYAWASO WEST
+70,Asesewa Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,UPPER MANYA KROBO
+71,Atua Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,YILO KROBO MUNICIPAL
+72,Bart-Plange Memorial Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ACCRA METROPOLIS
+73,Begoro District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,FANTEAKWA NORTH
+74,Bengali Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TEMA METROPOLITAN
+75,Bennette Memorial Clinic 2,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,LA-NKWANTANANG-MADINA
+76,Biomedical Department,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA WEST MUNICIPAL
+77,Blessings Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,OKAIKWEI NORTH MUNICIPAL
+78,Bukom Ellphkwei Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASHAIMAN MUNICIPAL
+79,Christian Medical Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KROWOR MUNICIPAL
+80,Complex Hosp.,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NSAWAM ADOAGYIRE MUNICIPAL
+81,Darben Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASHAIMAN MUNICIPAL
+82,Deseret Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GA CENTRAL MUNICIPAL
+83,East Legon Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AYAWASO WEST
+84,Eden Specialist Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA NORTH MUNICIPAL
+85,Enyiresi District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,ATIWA EAST
+86,Faith Medical Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA NORTH MUNICIPAL
+87,Gak Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,LA DADE-KOTOPON
+88,GCD Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,DENKYEMBOUR
+89,Gloria Family Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,LA-NKWANTANANG-MADINA
+90,Greater Grace Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,LA-NKWANTANANG-MADINA
+91,Johpat Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AYAWASO NORTH MUNICIPAL
+92,Jubail Specialist Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TEMA WEST MUNICIPAL
+93,Kaneshie Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA NORTH MUNICIPAL
+94,Karikari Brobbery Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA WEST MUNICIPAL
+95,King David Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AYAWASO NORTH MUNICIPAL
+96,Korle-Bu Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA WEST MUNICIPAL
+97,Kumorji Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,LA DADE-KOTOPON
+98,Kwahu South Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KWAHU SOUTH
+99,Kwahu West Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KWAHU WEST MUNICIPAL
+100,Holy Family District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,KWAHU WEST MUNICIPAL
+101,Kyebi Government District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABUAKWA SOUTH MUNICIPAL
+102,La General Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,LA DADE-KOTOPON
+103,Lapaz Community Clinic,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,OKAIKWEI NORTH MUNICIPAL
+104,Limb Fitting Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ACCRA METROPOLIS
+105,Link Road Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA CENTRAL MUNICIPAL
+106,Maamobi Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AYAWASO EAST MUNICIPAL
+107,Mamprobi Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA CENTRAL MUNICIPAL
+108,Manna Mission Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,LEDZOKUKU MUNICIPAL
+109,May Fair Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA CENTRAL MUNICIPAL
+110,Medifem Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AYAWASO WEST
+111,Megavest Medical Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA NORTH MUNICIPAL
+112,Mercy Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA CENTRAL MUNICIPAL
+113,Midway Clinic Ltd,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,OKAIKWEI NORTH MUNICIPAL
+114,Modern Atomic Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GA EAST
+115,MOH Headquarters,1,TB,2,7,2,Xpert,0,1,0,4480,28,smear,1,2,1,672,28,,,KORLE KLOTTEY MUNICIPAL
+116,Narh Bita Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TEMA METROPOLITAN
+117,North Legon Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,LA-NKWANTANANG-MADINA
+118,Pantang Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,LA-NKWANTANANG-MADINA
+119,Princess Marie Louis (PML) Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ACCRA METROPOLIS
+120,Port Medical Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TEMA METROPOLITAN
+121,Queen's Medical Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AYAWASO CENTRAL MUNICIPAL
+122,Sape Agbo Memorial Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AYAWASO NORTH MUNICIPAL
+123,St Josephs Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NEW JUABEN NORTH MUNICIPAL
+124,St Martins Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,LOWER MANYA KROBO
+125,St Mathew's Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GA NORTH MUNICIPAL
+126,St Nicholas Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TEMA METROPOLITAN
+127,St. Dominic Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,DENKYEMBOUR
+128,Suhum Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,SUHUM MUNICIPAL
+129,Tafo Governmentt Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABUAKWA SOUTH MUNICIPAL
+130,Tema General Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,TEMA METROPOLITAN
+131,Tema Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TEMA METROPOLITAN
+132,Tetteh Quarshie Memorial District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,AKWAPEM NORTH
+133,The Rock Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA NORTH MUNICIPAL
+134,University of Ghana Medical School,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA WEST MUNICIPAL
+135,Valco Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KPONE KATAMANSO
+136,Vicon Specialist Hospital / Mat hom,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA WEST MUNICIPAL
+137,VRA HOSPITAL,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,UPPER MANYA KROBO
+138,Adom Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASANTE AKIM CENTRAL MUNICIPAL
+139,Agogo Presby Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,ASANTE AKIM NORTH
+140,Asokore Ahmadyya Muslem Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEKYERE EAST
+141,Ahmadiyya Mission Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BEKWAI MUNICIPAL
+142,Ahwene Memoral Hosp.,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BEKWAI MUNICIPAL
+143,Akomaa Memorial Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BEKWAI MUNICIPAL
+144,ANGLOGOLD ASHANTI HOSP.(AGA),1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,OBUASI MUNICIPAL
+145,Asonomaso Government District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KWABRE EAST
+146,Atebubu Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,ATEBUBU AMANTIN
+147,Bekwai Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,BEKWAI MUNICIPAL
+148,Bibiani Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,BIBIANI-ANHWIASO-BEKWAI MUNICIPAL
+149,Bryant Mission Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,OBUASI MUNICIPAL
+150,Dunkwa District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,UPPER DENKYIRA EAST MUNICIPAL
+151,Divine Love Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BIBIANI-ANHWIASO-BEKWAI MUNICIPAL
+152,Dominase SDA Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BOSOME FREHO
+153,Effiduase District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEKYERE EAST
+154,Ejura District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,EJURA-SEKYEDUMASE
+155,Essum Ejaman S.D.A Hosp,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BEKWAI MUNICIPAL
+156,Evrest Hosp.,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ATWIMA NWABIAGYA NORTH
+157,G.B.C HOSPITAL - AWASO,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BIBIANI-ANHWIASO-BEKWAI MUNICIPAL
+158,Global Evangelical Mission Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,EJISU MUNICIPAL
+159,Juaben Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,JUABEN MUNICIPAL
+160,Juaso District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASANTE AKIM SOUTH
+161,Kade District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,BIRIM NORTH
+162,Kokofu General Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BEKWAI MUNICIPAL
+163,Komfo Anokye Teaching Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,KUMASI METROPOLITAN
+164,Konongo-Odumasi Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,ASANTE AKIM CENTRAL MUNICIPAL
+165,Kuntenase Government District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BOSOMTWE
+166,Kwabre Dist. Hos,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KWABRE EAST
+167,Mampong Government Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,MAMPONG MUNICIPAL
+168,Mankranso Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AHAFO ANO SOUTH EAST
+169,Maternal and Child Health Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KUMASI METROPOLITAN
+170,Mathias Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,PRU WEST
+171,Methodist Faith Healing District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AFIGYA KWABRE SOUTH
+172,New Abirem District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BIRIM NORTH
+173,New Edubiase District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,ADANSI SOUTH
+174,Nkawie/Toase Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,ATWIMA NWABIAGYA SOUTH
+175,Nyinahin Government District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ATWIMA MPONUA
+176,Obuasi Government Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,OBUASI MUNICIPAL
+177,Onwe SDA Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,OFORIKROM MUNICIPAL
+178,Asamang SDA Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,SEKYERE SOUTH
+179,Wiamoase SDA Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEKYERE SOUTH
+180,Sefwi Wiawso District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,SEFWI-WIAWSO
+181,Sene District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,SENE WEST
+182,St. Martin's  Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AMANSIE WEST
+183,St. Peters' Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AMANSIE CENTRAL
+184,St. Luke Hospital Kasei,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,EJURA-SEKYEDUMASE
+185,St. Mark Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,UPPER DENKYIRA EAST MUNICIPAL
+186,St. Micheal Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BOSOMTWE
+187,St. Patricks Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,OFFINSO MUNICIPAL
+188,ST.JUDE HOSPITAL LIMITED,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,OBUASI MUNICIPAL
+189,Suntreso Government Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KUMASI METROPOLITAN
+190,Tafo Government Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,OLD TAFO MUNICIPAL
+191,West phalian Hosp Complex,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEKYERE EAST
+192,Wiawso Government Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEFWI-WIAWSO
+193,3 M.R.S Liberation Barracks,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SUNYANI MUNICIPAL
+194,Ahmaddiya Moslem Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TECHIMAN MUNICIPAL
+195,Ahmadiyya Muslim Hospital 2,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASUNAFO NORTH MUNICIPAL
+196,Bechem Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,TANO SOUTH MUNICIPAL
+197,Bre Nye Kwa Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BEREKUM EAST MUNICIPAL
+198,Comm. Health Nursing Trg. Sch.,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TANO NORTH MUNICIPAL
+199,Tepa District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AHAFO ANO NORTH
+200,Dormaa Presby District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,DORMAA MUNICIPAL
+201,Emil Memorial Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,WENCHI MUNICIPAL
+202,Goaso District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,ASUNAFO NORTH MUNICIPAL
+203,Holy Fam. Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,BEREKUM EAST MUNICIPAL
+204,Holy Family Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,TECHIMAN MUNICIPAL
+205,Juaboso Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,JUABOSO
+206,Kintampo District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,KINTAMPO NORTH MUNICIPAL
+207,Wencgi Methodist Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,WENCHI MUNICIPAL
+208,Nkenkasu District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,OFFINSO NORTH
+209,Opoku Agyeman Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TECHIMAN MUNICIPAL
+210,Owusu Mem. Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SUNYANI MUNICIPAL
+211,Sampa District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,JAMAN NORTH
+212,St. Elizabeth Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASUTIFI SOUTH
+213,St. Johns Of God Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEFWI-WIAWSO
+214,St. John of God Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TANO NORTH MUNICIPAL
+215,St. Mary's Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,JAMAN SOUTH MUNICIPAL
+216,St. Theresa's Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,NKORANZA SOUTH
+217,Sunyani Municipal Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SUNYANI MUNICIPAL
+218,Sunyani SDA Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SUNYANI MUNICIPAL
+219,Ahmadiya Mission Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NADOWLI-KALEO
+220,ARCHBISHOP DERY MEM HOSP.,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,WA MUNICIPAL
+221,Bole District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,BOLE
+222,Damongo District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,WEST GONJA
+223,Lawra District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,LAWRA
+224,Nadowli District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,NADOWLI-KALEO
+225,Nandom Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NANDOM
+226,St. Joseph's District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,JIRAPA
+227,Tumu District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,SISSALA EAST
+228,7 MRS (MILITARY HOSPITAL),1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,HO MUNICIPAL
+229,Adidome District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,CENTRAL TONGU
+230,Akatsi District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,AKATSI SOUTH
+231,Anfoega Catholic Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,NORTH DAYI
+232,Battor Mission. Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,NORTH TONGU
+233,CENTRAL AFLAO HOSPITAL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KETU SOUTH
+234,Comboni Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SOUTH TONGU
+235,Donkorkrom Presby District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,KWAHU AFRAM PLAINS NORTH
+236,Ho Municipal Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,HO MUNICIPAL
+237,HOGGAR CLINIC,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AKATSI SOUTH
+238,Hohoe Government District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,HOHOE MUNICIPAL
+239,Jasikan District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,JASIKAN
+240,Keta Government Municipal Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,KETA MUNICIPAL
+241,Krachi District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,KRACHI WEST
+242,Kpando Margret Marquat District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KPANDO MUNICIPAL
+243,Dodi Papase Mary Theresa Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,KADJEBI
+244,MIRACLE LIFE CLINIC,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,HO MUNICIPAL
+245,NEW HOPE HOSPITAL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KETU SOUTH
+246,NKANCHINA  LEPROSY HOSP.,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KPANDAI
+247,Nkwanta District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,NKWANTA SOUTH MUNICIPAL
+248,Oti River Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KPANDAI
+249,Peki Government District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SOUTH DAYI
+250,Sacred Heart Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KETA MUNICIPAL
+251,SAPE-AGBO MEMORIAL  HOSPITAL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KETU SOUTH
+252,Sogakope District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,SOUTH TONGU
+253,St Anthony's Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,KETU NORTH
+254,St. Joseph's Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NKWANTA SOUTH MUNICIPAL
+255,ST. PATRICK'S HOSPITAL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KPANDO MUNICIPAL
+256,ST. PAUL S CLINIC,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AKATSI SOUTH
+257,TQM HOSPITAL,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KWAHU AFRAM PLAINS NORTH
+258,Worawora Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,BIAKOYE
+259,Pokukrom Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AHAFO ANO SOUTH EAST
+260,Nima Government Clinic,1,TB,2,7,2,Xpert,0,1,0,4480,28,smear,1,2,1,672,28,,,AYAWASO CENTRAL MUNICIPAL
+261,Ada East District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ADA EAST
+262,Bomaa District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AHAFO ANO NORTH
+263,Oforikrom (Techiman) Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TECHIMAN MUNICIPAL
+264,Ashaiman Polyclinic,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,ASHAIMAN MUNICIPAL
+265,Assin Akonfudi Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASSIN NORTH
+266,Swedru Government Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,EKUMFI
+267,Abu Gausu Memorial Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SAGNERIGU
+268,Ga East Municipal Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GA EAST
+269,Assemblies of God Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,SABOBA
+270,Jinjini Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BEREKUM WEST
+271,Botokrom Health Center,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BEREKUM WEST
+272,Binaba Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BAWKU WEST
+273,Ankamu CHPS,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GOMOA CENTRAL
+274,Obuasi Oguaa Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GOMOA WEST
+275,Adukrom Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,OKERE
+276,Nanton Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NANTON
+277,Janjori-Kukuo Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SAGNERIGU
+278,Nasuan Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,YUNYOO-NASUAN
+279,Gbingbani Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,EAST MAMPRUSI
+280,Dulugu CHPS,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BOLGA  EAST
+281,Gambibgo Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GARU
+282,Bugri Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TEMPANE
+283,Fame Clinic Tempane,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TEMPANE
+284,Kpalbe Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NORTH EAST GONJA
+285,Sawaba East CHPS,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,PRU EAST
+286,Matthias Hospital- Yeji,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,PRU EAST
+287,KPASSA HEALTH CENTRE,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,NKWANTA NORTH
+288,Anyinofi Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEKYERE AFRAM PLAINS NORTH
+289,Dawia Health Center,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEKYERE AFRAM PLAINS NORTH
+290,Banda Ahenkro Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BANDA
+291,Aworowa Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TECHIMAN NORTH
+292,Kenyasi Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASUTIFI NORTH
+293,Bassa Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SENE EAST
+294,TATALE HC,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TATALE SANGULI
+295,Tatale Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TATALE SANGULI
+296,Abetifi Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KWAHU EAST
+297,Kubori Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,MAMPRUGU MOAGDURI
+298,KUMBUNGU HC,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KUMBUNGU
+299,TOLON,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TOLON
+300,UDS Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KUMBUNGU
+301,St Joseph's (new Juabeng) Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NEW JUABEN NORTH MUNICIPAL
+302,Jimle Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,MION
+303,Bawena Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NORTH GONJA
+304,Awisa Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BIRIM SOUTH
+305,Akunye Memorial Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,PUSIGA
+306,Goore Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BINDURI
+307,Doninga Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BUILSA SOUTH
+308,Manso Nkwanta Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AMANSIE WEST
+309,Abenase Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AKYEM MANSA
+310,NANGODI KONGO HEALTH CENTRE,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NABDAM
+311,Pelungu Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NABDAM
+312,Kwesimintim Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,EFFIA KWESIMINTSIM MUNICIPAL
+313,AKOTOMBRA  HEALTH  CENTRE,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEFWI AKONTOMBRA
+314,Talensi District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TALENSI
+315,Bussie Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,DAFFIAMA BUSSIE ISSA
+316,Adeiso Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,UPPER WEST AKIM
+317,Amanase Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AYENSUANO
+318,Manso Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASSIN SOUTH
+319,First Class Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASSIN SOUTH
+320,Asanyanso Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KWAHU AFRAM PLAINS SOUTH
+321,Nsaaba Duakwa Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AGONA EAST
+322,Salvation Army Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KROWOR MUNICIPAL
+323,Pakro Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AKWAPEM SOUTH
+324,Kom Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AKWAPEM SOUTH
+325,Mprim CHPS C,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,MAMPONG MUNICIPAL
+326,Nyagbo Gagbefe Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AFADZATO SOUTH
+327,Fumso Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ADANSI ASOKWA
+328,Anhwiaso(Adansi Asokwa) Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ADANSI ASOKWA
+329,AGORMOR HEALTH CENTRE,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AKATSI NORTH
+330,Ave-dakpa Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AKATSI NORTH
+331,Kpetoe Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AGOTIME ZIOPE
+332,Chinderi Health Center,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KRACHI NCHUMURU
+333,Asubuasu Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEKYERE CENTRAL
+334,Mpobi Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AFIGYA KWABRE SOUTH
+335,Bawjiase Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AWUTU SENYA WEST
+336,Dambai Health Certre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KRACHI EAST MUNICIPAL
+337,Hemang Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TWIFO HEMANG LOWER DENKYIRA
+338,AGYAKAA  MANSO  HEALTH  CENTRE,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,WASSA AMENFI CENTRAL
+339,Manso Amenfi Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,WASSA AMENFI CENTRAL
+340,Mpohor Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,MPOHOR
+341,Busunya Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NKORANZA NORTH
+342,SUI - ANO  HEALTH  CENTRE,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BODI
+343,Ahibenso Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BODI
+344,Chiraa Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SUNYANI WEST
+345,Kaase Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BIA EAST
+346,DADIESO  HEALTH  CENTRE,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SUAMAN
+347,Prampram Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NINGO/PRAMPRAM
+348,Denugu Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GARU
+349,CHIANA HEALTH CENTRE,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KASENA NANKANA WEST
+350,Kandiga Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KASENA NANKANA WEST
+351,LUGNI HC,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NANUMBA SOUTH
+352,Gwollu Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SISSALA WEST
+353,Charingu Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,WA EAST
+354,Samuel Seidu Memorial Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,WA EAST
+355,Ahwiaa Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AHAFO ANO SOUTH WEST
+356,Edubia Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AMANSIE SOUTH
+357,Akrofuom Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AKROFUOM
+358,Akropong Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ATWIMA NWABIAGYA SOUTH
+359,Pomposo CHPS,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,OBUASI EAST
+360,AGA Health Foundation Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,OBUASI MUNICIPAL
+361,Kwamang (Afigya Kwabre) Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AMANSIE CENTRAL
+362,KNUST Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,OFORIKROM MUNICIPAL
+363,Namong SDA Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,OFFINSO MUNICIPAL
+364,Chirapatre CHPS,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASOKWA  MUNICIPAL
+365,Kumasi Children's Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASOKWA  MUNICIPAL
+366,Ga North Municipal Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GA NORTH MUNICIPAL
+367,Buade CHPS,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KROWOR MUNICIPAL
+368,LEA Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,LEDZOKUKU MUNICIPAL
+369,Mallam Atta Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,WEIJA GBAWE MUNICIPAL
+370,Anloga Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ANLOGA
+371,Aperade Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ACHIASE
+372,Achiase Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BIRIM SOUTH
+373,Soabe CHPS,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASENE MANSO AKROSO
+374,Akroso Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BIRIM CENTRAL MUNICIPAL
+375,Tarkwa Maakro Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,SUAME MUNICIPAL
+376,Dansoman Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABLEKUMA NORTH MUNICIPAL
+377,Weija-Gbawe Municipal Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,WEIJA GBAWE MUNICIPAL
+378,Maamobi General Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AYAWASO NORTH MUNICIPAL
+379,Fomena Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ADANSI NORTH
+380,Kadjebi Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KADJEBI
+381,Karaga District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KARAGA
+382,Buipe Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,CENTRAL GONJA
+383,Apatrapa Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KWADASO MUNICIPAL
+384,Asokore Mampong Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASOKORE MAMPONG MUNICIPAL
+385,Kyei Memorial Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KUMASI METROPOLITAN
+386,Kumawu Government Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SEKYERE KUMAWU
+387,Nsawkaw Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,TAIN
+388,Asunafo South District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASUNAFO SOUTH
+389,Diaso Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,UPPER DENKYIRA WEST
+390,St. John Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,UPPER DENKYIRA WEST
+391,Akosombo VRA Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ASUOGYAMAN
+392,Bosuso Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,FANTEAKWA SOUTH
+393,Klo-Agogo(Yilo Krobo) Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,YILO KROBO MUNICIPAL
+394,Dormaa West District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,DORMAA WEST
+395,Potsin Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GOMOA EAST
+396,St Gregory Catholic Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GOMOA EAST
+397,New Tafo Government Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ABUAKWA NORTH
+398,Asakraka Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KWAHU SOUTH
+399,Kade Government Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,KWAEBIBIREM
+400,Kpedze  Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,HO WEST
+401,Likpe Bakua Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,HOHOE MUNICIPAL
+402,Nkawie-Toase Governmental Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,ATWIMA NWABIAGYA SOUTH
+403,Waya Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ADAKLU
+404,Ga West Municipal Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,GA NORTH MUNICIPAL
+405,Amanfro Polyclinic,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,GA SOUTH MUNICIPAL
+406,University Hospital Legon,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AYAWASO WEST
+407,Ahenema Kokoben Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ATWIMA KWANWOMA
+408,Abomosu Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ATIWA WEST
+409,Kasoa Polyclinic,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,AWUTU SENYA EAST
+410,Nkwanta Municipal Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,NKWANTA SOUTH MUNICIPAL
+411,Ga Central Municipal Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,GA CENTRAL MUNICIPAL
+412,Swedru Government District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,AGONA WEST MUNICIPAL
+413,Narkwa Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,EKUMFI
+414,Kintampo South District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,KINTAMPO SOUTH
+415,Mempeasem Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,JUABOSO
+416,Essam Government Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BIA WEST
+417,Dormaa East District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,DORMAA EAST
+418,Sege Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ADA WEST
+419,Shai Osudoku Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SHAI OSUDOKU
+420,Sawla Polyclinc,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SAWLA-TUNA-KALBA
+421,Wa West District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,WA WEST
+422,Lambussie Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,LAMBUSSIE-KARNI
+423,Chereponi Government Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,CHEREPONI
+424,Ogbojo Polyclinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,ADENTA MUNICIPAL
+425,Bolgatanga Police Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BOLGATANGA MUNICIPAL
+426,Asiwa Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BOSOME FREHO
+427,Nkonya Wurupong Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,BIAKOYE
+428,Ketu South District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KETU SOUTH
+429,Kpone Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KPONE KATAMANSO
+430,Kpandai  District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,KPANDAI
+431,Madina Polyclinic (Kekele),1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,LA-NKWANTANANG-MADINA
+432,Prang Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,PRU WEST
+433,Shama Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,SHAMA
+434,Zabzugu District Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,ZABZUGU
+435,Agona Government Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,SEKYERE SOUTH
+436,Ejisu Government Hospital,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,EJISU MUNICIPAL
+437,Salaga District Hospital,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,EAST GONJA MUNICIPAL
+438,Gambaga Health Centre,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,EAST MAMPRUSI
+439,Koforidua Poly Clinic,1,TB,2,7,2,Xpert,0,1,0,2240,28,smear,1,2,1,672,28,,,NEW JUABEN SOUTH MUNICIPAL
+440,Bolgatanga Regional Hospital,1,TB,2,7,2,Xpert,1,1,2,2240,28,smear,1,2,1,672,28,,,BOLGATANGA MUNICIPAL
+441,Central Regional Hospital,1,TB,2,7,2,Xpert,1,1,2,2240,28,smear,1,2,1,672,28,,,CAPE COAST METROPOLITAN
+442,Effia Nkwanta Regional Hospital,1,TB,2,7,2,Xpert,1,1,2,2240,28,smear,1,2,1,672,28,,,SEKONDI TAKORADI METROPOLIS
+443,REGIONAL HOSPITA KOFORIDUA,1,TB,2,7,2,Xpert,1,1,2,2240,28,smear,1,2,1,672,28,,,NEW JUABEN SOUTH MUNICIPAL
+444,Kumasi South Government Regional Hospital,1,TB,2,7,2,Xpert,1,1,2,2240,28,smear,1,2,1,672,28,,,ASOKWA  MUNICIPAL
+445,Sunyani Regional Hospital,1,TB,2,7,2,Xpert,1,1,2,2240,28,smear,1,2,1,672,28,,,SUNYANI MUNICIPAL
+446,Upper West Regional Hospital,1,TB,2,7,2,Xpert,1,1,2,2240,28,smear,1,2,1,672,28,,,WA MUNICIPAL
+447,Volta Regional Hospital,1,TB,2,7,2,Xpert,1,1,2,2240,28,smear,1,2,1,672,28,,,HO MUNICIPAL
+448,Tamale Regional Hospital,1,TB,2,7,2,Xpert,1,1,2,2240,28,smear,1,2,1,672,28,,,TAMALE METROPOLITAN
+449,Ridge Hospital,1,TB,2,7,2,Xpert,1,1,2,2240,28,smear,1,2,1,672,28,,,KORLE KLOTTEY MUNICIPAL
+450,Public Health Zonal Lab1,1,TB,2,7,2,Xpert,1,1,3,6720,28,smear,1,2,1,672,28,,,KUMASI METROPOLITAN
+451,Public Health Zonal Lab2,1,TB,2,7,2,Xpert,1,1,1,2240,28,smear,1,2,1,672,28,,,SEKONDI TAKORADI METROPOLIS
+452,Public Health Zonal Lab3,1,TB,2,7,2,Xpert,1,1,2,4480,28,smear,1,2,1,672,28,,,NORTH EAST GONJA
+453,National Public Health Lab,1,TB,2,7,2,Xpert,1,1,4,8960,28,smear,1,2,1,672,28,,,ABLEKUMA WEST MUNICIPAL
